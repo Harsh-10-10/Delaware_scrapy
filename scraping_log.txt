@@ -1,0 +1,1901 @@
+2025-07-15 14:18:48,670 - INFO - ====== WebDriver manager ======
+2025-07-15 14:18:49,740 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-15 14:18:49,848 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-15 14:18:49,962 - INFO - Driver [C:\Users\harshs\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-15 14:18:54,589 - INFO - Scraping category: Open
+2025-07-15 14:18:56,711 - ERROR - Error processing a row: Message: no such element: Unable to locate element: {"method":"tag name","selector":"a"}
+  (Session info: chrome=138.0.7204.101); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0xeb44a3+62419]
+	GetHandleVerifier [0x0xeb44e4+62484]
+	(No symbol) [0x0xcf2133]
+	(No symbol) [0x0xd3a8fe]
+	(No symbol) [0x0xd3ac9b]
+	(No symbol) [0x0xd30131]
+	(No symbol) [0x0xd5f4b4]
+	(No symbol) [0x0xd30054]
+	(No symbol) [0x0xd5f6e4]
+	(No symbol) [0x0xd8087a]
+	(No symbol) [0x0xd5f266]
+	(No symbol) [0x0xd2e852]
+	(No symbol) [0x0xd2f6f4]
+	GetHandleVerifier [0x0x1124793+2619075]
+	GetHandleVerifier [0x0x111fbaa+2599642]
+	GetHandleVerifier [0x0xedb04a+221050]
+	GetHandleVerifier [0x0xecb2c8+156152]
+	GetHandleVerifier [0x0xed1c7d+183213]
+	GetHandleVerifier [0x0xebc388+94904]
+	GetHandleVerifier [0x0xebc512+95298]
+	GetHandleVerifier [0x0xea766a+9626]
+	(No symbol) [0x0x76b07ba9]
+	RtlInitializeExceptionChain [0x0x77b1c3ab+107]
+	RtlClearBits [0x0x77b1c32f+191]
+
+2025-07-15 14:18:59,857 - INFO - Scraped Bid ID: 8732
+2025-07-15 14:19:02,968 - INFO - Scraped Bid ID: 8725
+2025-07-15 14:19:06,098 - INFO - Scraped Bid ID: 8724
+2025-07-15 14:19:09,249 - INFO - Scraped Bid ID: 8735
+2025-07-15 14:19:12,394 - INFO - Scraped Bid ID: 8738
+2025-07-15 14:19:15,523 - INFO - Scraped Bid ID: 8728
+2025-07-15 14:19:18,658 - INFO - Scraped Bid ID: 8722
+2025-07-15 14:19:21,794 - INFO - Scraped Bid ID: 8730
+2025-07-15 14:19:24,907 - INFO - Scraped Bid ID: 8727
+2025-07-15 14:19:28,025 - INFO - Scraped Bid ID: 8723
+2025-07-15 14:19:31,136 - INFO - Scraped Bid ID: 8726
+2025-07-15 14:19:34,288 - INFO - Scraped Bid ID: 8729
+2025-07-15 14:19:37,393 - INFO - Scraped Bid ID: 8720
+2025-07-15 14:19:40,504 - INFO - Scraped Bid ID: 8690
+2025-07-15 14:19:43,678 - INFO - Scraped Bid ID: 8719
+2025-07-15 14:19:46,788 - INFO - Scraped Bid ID: 8718
+2025-07-15 14:19:49,916 - INFO - Scraped Bid ID: 8716
+2025-07-15 14:19:53,032 - INFO - Scraped Bid ID: 8709
+2025-07-15 14:19:56,174 - INFO - Scraped Bid ID: 8714
+2025-07-15 14:19:59,320 - INFO - Scraped Bid ID: 8707
+2025-07-15 14:19:59,672 - INFO - Saved 20 bids from this page. Total: 20
+2025-07-15 14:20:01,725 - ERROR - Error processing a row: Message: no such element: Unable to locate element: {"method":"tag name","selector":"a"}
+  (Session info: chrome=138.0.7204.101); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0xeb44a3+62419]
+	GetHandleVerifier [0x0xeb44e4+62484]
+	(No symbol) [0x0xcf2133]
+	(No symbol) [0x0xd3a8fe]
+	(No symbol) [0x0xd3ac9b]
+	(No symbol) [0x0xd30131]
+	(No symbol) [0x0xd5f4b4]
+	(No symbol) [0x0xd30054]
+	(No symbol) [0x0xd5f6e4]
+	(No symbol) [0x0xd8087a]
+	(No symbol) [0x0xd5f266]
+	(No symbol) [0x0xd2e852]
+	(No symbol) [0x0xd2f6f4]
+	GetHandleVerifier [0x0x1124793+2619075]
+	GetHandleVerifier [0x0x111fbaa+2599642]
+	GetHandleVerifier [0x0xedb04a+221050]
+	GetHandleVerifier [0x0xecb2c8+156152]
+	GetHandleVerifier [0x0xed1c7d+183213]
+	GetHandleVerifier [0x0xebc388+94904]
+	GetHandleVerifier [0x0xebc512+95298]
+	GetHandleVerifier [0x0xea766a+9626]
+	(No symbol) [0x0x76b07ba9]
+	RtlInitializeExceptionChain [0x0x77b1c3ab+107]
+	RtlClearBits [0x0x77b1c32f+191]
+
+2025-07-15 14:20:04,849 - INFO - Scraped Bid ID: 8708
+2025-07-15 14:20:08,006 - INFO - Scraped Bid ID: 8710
+2025-07-15 14:20:11,162 - INFO - Scraped Bid ID: 8702
+2025-07-15 14:20:14,321 - INFO - Scraped Bid ID: 8711
+2025-07-15 14:20:17,468 - INFO - Scraped Bid ID: 8712
+2025-07-15 14:20:20,609 - INFO - Scraped Bid ID: 8705
+2025-07-15 14:20:23,730 - INFO - Scraped Bid ID: 8715
+2025-07-15 14:20:26,859 - INFO - Scraped Bid ID: 8706
+2025-07-15 14:20:29,968 - INFO - Scraped Bid ID: 8700
+2025-07-15 14:20:33,095 - INFO - Scraped Bid ID: 8704
+2025-07-15 14:20:36,246 - INFO - Scraped Bid ID: 8699
+2025-07-15 14:20:39,397 - INFO - Scraped Bid ID: 8703
+2025-07-15 14:20:42,541 - INFO - Scraped Bid ID: 8701
+2025-07-15 14:20:49,616 - INFO - ====== WebDriver manager ======
+2025-07-15 14:20:50,626 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-15 14:20:50,750 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-15 14:20:50,824 - INFO - Driver [C:\Users\harshs\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-15 14:20:52,101 - INFO - Loaded 20 previously scraped bids.
+2025-07-15 14:20:54,622 - INFO - Scraping category: Open
+2025-07-15 14:20:56,734 - ERROR - Error processing a row: Message: no such element: Unable to locate element: {"method":"tag name","selector":"a"}
+  (Session info: chrome=138.0.7204.101); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0xeb44a3+62419]
+	GetHandleVerifier [0x0xeb44e4+62484]
+	(No symbol) [0x0xcf2133]
+	(No symbol) [0x0xd3a8fe]
+	(No symbol) [0x0xd3ac9b]
+	(No symbol) [0x0xd30131]
+	(No symbol) [0x0xd5f4b4]
+	(No symbol) [0x0xd30054]
+	(No symbol) [0x0xd5f6e4]
+	(No symbol) [0x0xd8087a]
+	(No symbol) [0x0xd5f266]
+	(No symbol) [0x0xd2e852]
+	(No symbol) [0x0xd2f6f4]
+	GetHandleVerifier [0x0x1124793+2619075]
+	GetHandleVerifier [0x0x111fbaa+2599642]
+	GetHandleVerifier [0x0xedb04a+221050]
+	GetHandleVerifier [0x0xecb2c8+156152]
+	GetHandleVerifier [0x0xed1c7d+183213]
+	GetHandleVerifier [0x0xebc388+94904]
+	GetHandleVerifier [0x0xebc512+95298]
+	GetHandleVerifier [0x0xea766a+9626]
+	(No symbol) [0x0x76b07ba9]
+	RtlInitializeExceptionChain [0x0x77b1c3ab+107]
+	RtlClearBits [0x0x77b1c32f+191]
+
+2025-07-15 14:20:56,750 - INFO - Skipping already scraped Bid ID: 8732
+2025-07-15 14:20:56,770 - INFO - Skipping already scraped Bid ID: 8725
+2025-07-15 14:20:56,778 - INFO - Skipping already scraped Bid ID: 8724
+2025-07-15 14:20:56,784 - INFO - Skipping already scraped Bid ID: 8735
+2025-07-15 14:20:56,794 - INFO - Skipping already scraped Bid ID: 8738
+2025-07-15 14:20:56,804 - INFO - Skipping already scraped Bid ID: 8728
+2025-07-15 14:20:56,818 - INFO - Skipping already scraped Bid ID: 8722
+2025-07-15 14:20:56,824 - INFO - Skipping already scraped Bid ID: 8730
+2025-07-15 14:20:56,838 - INFO - Skipping already scraped Bid ID: 8727
+2025-07-15 14:20:56,849 - INFO - Skipping already scraped Bid ID: 8723
+2025-07-15 14:20:56,858 - INFO - Skipping already scraped Bid ID: 8726
+2025-07-15 14:20:56,868 - INFO - Skipping already scraped Bid ID: 8729
+2025-07-15 14:20:56,878 - INFO - Skipping already scraped Bid ID: 8720
+2025-07-15 14:20:56,889 - INFO - Skipping already scraped Bid ID: 8690
+2025-07-15 14:20:56,904 - INFO - Skipping already scraped Bid ID: 8719
+2025-07-15 14:20:56,910 - INFO - Skipping already scraped Bid ID: 8718
+2025-07-15 14:20:56,922 - INFO - Skipping already scraped Bid ID: 8716
+2025-07-15 14:20:56,934 - INFO - Skipping already scraped Bid ID: 8709
+2025-07-15 14:20:56,944 - INFO - Skipping already scraped Bid ID: 8714
+2025-07-15 14:20:56,953 - INFO - Skipping already scraped Bid ID: 8707
+2025-07-15 14:20:58,989 - ERROR - Error processing a row: Message: no such element: Unable to locate element: {"method":"tag name","selector":"a"}
+  (Session info: chrome=138.0.7204.101); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0xeb44a3+62419]
+	GetHandleVerifier [0x0xeb44e4+62484]
+	(No symbol) [0x0xcf2133]
+	(No symbol) [0x0xd3a8fe]
+	(No symbol) [0x0xd3ac9b]
+	(No symbol) [0x0xd30131]
+	(No symbol) [0x0xd5f4b4]
+	(No symbol) [0x0xd30054]
+	(No symbol) [0x0xd5f6e4]
+	(No symbol) [0x0xd8087a]
+	(No symbol) [0x0xd5f266]
+	(No symbol) [0x0xd2e852]
+	(No symbol) [0x0xd2f6f4]
+	GetHandleVerifier [0x0x1124793+2619075]
+	GetHandleVerifier [0x0x111fbaa+2599642]
+	GetHandleVerifier [0x0xedb04a+221050]
+	GetHandleVerifier [0x0xecb2c8+156152]
+	GetHandleVerifier [0x0xed1c7d+183213]
+	GetHandleVerifier [0x0xebc388+94904]
+	GetHandleVerifier [0x0xebc512+95298]
+	GetHandleVerifier [0x0xea766a+9626]
+	(No symbol) [0x0x76b07ba9]
+	RtlInitializeExceptionChain [0x0x77b1c3ab+107]
+	RtlClearBits [0x0x77b1c32f+191]
+
+2025-07-15 14:21:02,144 - INFO - Scraped Bid ID: 8708
+2025-07-15 14:21:05,321 - INFO - Scraped Bid ID: 8710
+2025-07-15 14:21:08,461 - INFO - Scraped Bid ID: 8702
+2025-07-15 14:21:11,617 - INFO - Scraped Bid ID: 8711
+2025-07-15 14:21:14,767 - INFO - Scraped Bid ID: 8712
+2025-07-15 14:21:17,906 - INFO - Scraped Bid ID: 8705
+2025-07-15 14:21:21,021 - INFO - Scraped Bid ID: 8715
+2025-07-15 14:21:24,161 - INFO - Scraped Bid ID: 8706
+2025-07-15 14:21:27,268 - INFO - Scraped Bid ID: 8700
+2025-07-15 14:21:30,430 - INFO - Scraped Bid ID: 8704
+2025-07-15 14:21:33,633 - INFO - Scraped Bid ID: 8699
+2025-07-15 14:21:36,772 - INFO - Scraped Bid ID: 8703
+2025-07-15 14:21:39,902 - INFO - Scraped Bid ID: 8701
+2025-07-15 14:21:43,019 - INFO - Scraped Bid ID: 8695
+2025-07-15 14:21:46,221 - INFO - Scraped Bid ID: 8692
+2025-07-15 14:21:49,386 - INFO - Scraped Bid ID: 8691
+2025-07-15 14:21:52,593 - INFO - Scraped Bid ID: 8687
+2025-07-15 14:21:55,798 - INFO - Scraped Bid ID: 8685
+2025-07-15 14:21:58,968 - INFO - Scraped Bid ID: 8682
+2025-07-15 14:22:02,131 - INFO - Scraped Bid ID: 8683
+2025-07-15 14:22:02,159 - INFO - Saved 20 bids from this page. Total: 40
+2025-07-15 14:22:04,196 - ERROR - Error processing a row: Message: no such element: Unable to locate element: {"method":"tag name","selector":"a"}
+  (Session info: chrome=138.0.7204.101); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0xeb44a3+62419]
+	GetHandleVerifier [0x0xeb44e4+62484]
+	(No symbol) [0x0xcf2133]
+	(No symbol) [0x0xd3a8fe]
+	(No symbol) [0x0xd3ac9b]
+	(No symbol) [0x0xd30131]
+	(No symbol) [0x0xd5f4b4]
+	(No symbol) [0x0xd30054]
+	(No symbol) [0x0xd5f6e4]
+	(No symbol) [0x0xd8087a]
+	(No symbol) [0x0xd5f266]
+	(No symbol) [0x0xd2e852]
+	(No symbol) [0x0xd2f6f4]
+	GetHandleVerifier [0x0x1124793+2619075]
+	GetHandleVerifier [0x0x111fbaa+2599642]
+	GetHandleVerifier [0x0xedb04a+221050]
+	GetHandleVerifier [0x0xecb2c8+156152]
+	GetHandleVerifier [0x0xed1c7d+183213]
+	GetHandleVerifier [0x0xebc388+94904]
+	GetHandleVerifier [0x0xebc512+95298]
+	GetHandleVerifier [0x0xea766a+9626]
+	(No symbol) [0x0x76b07ba9]
+	RtlInitializeExceptionChain [0x0x77b1c3ab+107]
+	RtlClearBits [0x0x77b1c32f+191]
+
+2025-07-15 14:22:07,353 - INFO - Scraped Bid ID: 8684
+2025-07-15 14:22:10,509 - INFO - Scraped Bid ID: 8666
+2025-07-15 14:22:13,620 - INFO - Scraped Bid ID: 8681
+2025-07-15 14:22:16,757 - INFO - Scraped Bid ID: 8693
+2025-07-15 14:22:19,869 - INFO - Scraped Bid ID: 8680
+2025-07-15 14:22:22,989 - INFO - Scraped Bid ID: 8677
+2025-07-15 14:22:26,127 - INFO - Scraped Bid ID: 8676
+2025-07-15 14:22:29,274 - INFO - Scraped Bid ID: 8649
+2025-07-15 14:22:32,437 - INFO - Scraped Bid ID: 8670
+2025-07-15 14:22:35,544 - INFO - Scraped Bid ID: 8672
+2025-07-15 14:22:38,692 - INFO - Scraped Bid ID: 8647
+2025-07-15 14:22:41,849 - INFO - Scraped Bid ID: 8673
+2025-07-15 14:22:44,990 - INFO - Scraped Bid ID: 8639
+2025-07-15 14:22:48,109 - INFO - Scraped Bid ID: 8635
+2025-07-15 14:22:48,121 - INFO - Saved 14 bids from this page. Total: 54
+2025-07-15 14:22:50,215 - INFO - Scraping complete. Total bids saved: 54
+2025-07-16 15:13:10,409 - INFO - ====== WebDriver manager ======
+2025-07-16 15:13:11,433 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-16 15:13:47,320 - INFO - ====== WebDriver manager ======
+2025-07-16 15:13:48,339 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-16 15:13:48,452 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-16 15:13:48,556 - INFO - There is no [win64] chromedriver "138.0.7204.157" for browser google-chrome "138.0.7204" in cache
+2025-07-16 15:13:48,556 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-16 15:13:48,787 - INFO - WebDriver version 138.0.7204.157 selected
+2025-07-16 15:13:48,787 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.157/win32/chromedriver-win32.zip
+2025-07-16 15:13:48,787 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.157/win32/chromedriver-win32.zip
+2025-07-16 15:13:48,905 - INFO - Driver downloading response is 200
+2025-07-16 15:13:49,271 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-16 15:13:49,578 - INFO - Driver has been saved in cache [C:\Users\harshs\.wdm\drivers\chromedriver\win64\138.0.7204.157]
+2025-07-16 15:13:55,794 - INFO - Scraping category: Open
+2025-07-16 15:13:57,931 - ERROR - Error processing a row: Message: no such element: Unable to locate element: {"method":"tag name","selector":"a"}
+  (Session info: chrome=138.0.7204.101); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x1091a33+62339]
+	GetHandleVerifier [0x0x1091a74+62404]
+	(No symbol) [0x0xed2123]
+	(No symbol) [0x0xf1a86e]
+	(No symbol) [0x0xf1ac0b]
+	(No symbol) [0x0xf10081]
+	(No symbol) [0x0xf3f404]
+	(No symbol) [0x0xf0ffa4]
+	(No symbol) [0x0xf3f634]
+	(No symbol) [0x0xf607a3]
+	(No symbol) [0x0xf3f1b6]
+	(No symbol) [0x0xf0e7a2]
+	(No symbol) [0x0xf0f644]
+	GetHandleVerifier [0x0x13065c3+2637587]
+	GetHandleVerifier [0x0x13019ca+2618138]
+	GetHandleVerifier [0x0x10b84aa+220666]
+	GetHandleVerifier [0x0x10a88d8+156200]
+	GetHandleVerifier [0x0x10af06d+182717]
+	GetHandleVerifier [0x0x1099978+94920]
+	GetHandleVerifier [0x0x1099b02+95314]
+	GetHandleVerifier [0x0x1084c4a+9626]
+	(No symbol) [0x0x76b07ba9]
+	RtlInitializeExceptionChain [0x0x77b1c3ab+107]
+	RtlClearBits [0x0x77b1c32f+191]
+
+2025-07-16 15:14:01,130 - INFO - Scraped Bid ID: 8731
+2025-07-16 15:14:01,534 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:14:04,638 - INFO - Scraped Bid ID: 8734
+2025-07-16 15:14:04,658 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:14:07,788 - INFO - Scraped Bid ID: 8733
+2025-07-16 15:14:07,790 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:14:10,922 - INFO - Scraped Bid ID: 8732
+2025-07-16 15:14:10,932 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:14:14,042 - INFO - Scraped Bid ID: 8725
+2025-07-16 15:14:14,055 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:14:17,184 - INFO - Scraped Bid ID: 8724
+2025-07-16 15:14:17,194 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:14:20,305 - INFO - Scraped Bid ID: 8735
+2025-07-16 15:14:20,313 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:14:23,448 - INFO - Scraped Bid ID: 8738
+2025-07-16 15:14:23,463 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:14:26,610 - INFO - Scraped Bid ID: 8728
+2025-07-16 15:14:26,616 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:14:29,757 - INFO - Scraped Bid ID: 8722
+2025-07-16 15:14:29,769 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:14:32,908 - INFO - Scraped Bid ID: 8730
+2025-07-16 15:14:32,922 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:14:36,034 - INFO - Scraped Bid ID: 8727
+2025-07-16 15:14:36,045 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:14:39,158 - INFO - Scraped Bid ID: 8723
+2025-07-16 15:14:39,162 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:14:42,279 - INFO - Scraped Bid ID: 8726
+2025-07-16 15:14:42,283 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:14:45,440 - INFO - Scraped Bid ID: 8729
+2025-07-16 15:14:45,442 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:14:48,570 - INFO - Scraped Bid ID: 8720
+2025-07-16 15:14:48,570 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:14:51,680 - INFO - Scraped Bid ID: 8690
+2025-07-16 15:14:51,682 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:14:55,247 - INFO - ====== WebDriver manager ======
+2025-07-16 15:14:56,249 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-16 15:14:56,329 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-16 15:14:56,417 - INFO - Driver [C:\Users\harshs\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-16 15:15:11,350 - INFO - ====== WebDriver manager ======
+2025-07-16 15:15:12,429 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-16 15:15:12,502 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-16 15:15:12,573 - INFO - Driver [C:\Users\harshs\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-16 15:16:47,626 - INFO - ====== WebDriver manager ======
+2025-07-16 15:16:48,632 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-16 15:16:48,747 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-16 15:16:48,852 - INFO - Driver [C:\Users\harshs\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-16 15:16:52,546 - INFO - Scraping category: Open
+2025-07-16 15:16:54,649 - ERROR - Error processing a row: Message: no such element: Unable to locate element: {"method":"tag name","selector":"a"}
+  (Session info: chrome=138.0.7204.101); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x1091a33+62339]
+	GetHandleVerifier [0x0x1091a74+62404]
+	(No symbol) [0x0xed2123]
+	(No symbol) [0x0xf1a86e]
+	(No symbol) [0x0xf1ac0b]
+	(No symbol) [0x0xf10081]
+	(No symbol) [0x0xf3f404]
+	(No symbol) [0x0xf0ffa4]
+	(No symbol) [0x0xf3f634]
+	(No symbol) [0x0xf607a3]
+	(No symbol) [0x0xf3f1b6]
+	(No symbol) [0x0xf0e7a2]
+	(No symbol) [0x0xf0f644]
+	GetHandleVerifier [0x0x13065c3+2637587]
+	GetHandleVerifier [0x0x13019ca+2618138]
+	GetHandleVerifier [0x0x10b84aa+220666]
+	GetHandleVerifier [0x0x10a88d8+156200]
+	GetHandleVerifier [0x0x10af06d+182717]
+	GetHandleVerifier [0x0x1099978+94920]
+	GetHandleVerifier [0x0x1099b02+95314]
+	GetHandleVerifier [0x0x1084c4a+9626]
+	(No symbol) [0x0x76b07ba9]
+	RtlInitializeExceptionChain [0x0x77b1c3ab+107]
+	RtlClearBits [0x0x77b1c32f+191]
+
+2025-07-16 15:16:57,830 - INFO - Scraped Bid ID: 8731
+2025-07-16 15:16:58,004 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:17:01,107 - INFO - Scraped Bid ID: 8734
+2025-07-16 15:17:01,110 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:17:04,259 - INFO - Scraped Bid ID: 8733
+2025-07-16 15:17:04,272 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:17:07,398 - INFO - Scraped Bid ID: 8732
+2025-07-16 15:17:07,414 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:17:10,522 - INFO - Scraped Bid ID: 8725
+2025-07-16 15:17:10,526 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:17:13,658 - INFO - Scraped Bid ID: 8724
+2025-07-16 15:17:13,660 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:17:16,781 - INFO - Scraped Bid ID: 8735
+2025-07-16 15:17:16,781 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:17:19,937 - INFO - Scraped Bid ID: 8738
+2025-07-16 15:17:19,952 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:17:23,089 - INFO - Scraped Bid ID: 8728
+2025-07-16 15:17:23,094 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:17:26,238 - INFO - Scraped Bid ID: 8722
+2025-07-16 15:17:26,238 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:17:29,380 - INFO - Scraped Bid ID: 8730
+2025-07-16 15:17:29,385 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:17:32,497 - INFO - Scraped Bid ID: 8727
+2025-07-16 15:17:32,498 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:17:35,623 - INFO - Scraped Bid ID: 8723
+2025-07-16 15:17:35,629 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:17:38,749 - INFO - Scraped Bid ID: 8726
+2025-07-16 15:17:38,753 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:17:51,959 - INFO - ====== WebDriver manager ======
+2025-07-16 15:17:52,960 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-16 15:17:53,068 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-16 15:17:53,130 - INFO - Driver [C:\Users\harshs\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-16 15:17:54,403 - INFO - Existing Excel columns: ['Open', '8726', 'AOA25-CPA01-HAZSUB', 'DNREC Hazardous Substance Cleanup Fund Audit', '2025-07-07', '2025-08-25', 'AOA', '8411,9315', '7/7/2025', '8/25/2025 at 04:00 PM Local Time', 'michelle.salgado@delaware.gov', 'Unnamed: 11', "{'RFP - Professional Services': 'https://bidcondocs.delaware.gov/AOA/AOA25-CPA01-HAZSUB-rfp.pdf'}"]
+2025-07-16 15:17:54,403 - WARNING - Column 'Bid ID' not found in existing Excel file. Proceeding with empty ID set.
+2025-07-16 15:17:56,857 - INFO - Scraping category: Open
+2025-07-16 15:17:58,980 - ERROR - Error processing a row: Message: no such element: Unable to locate element: {"method":"tag name","selector":"a"}
+  (Session info: chrome=138.0.7204.101); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x1091a33+62339]
+	GetHandleVerifier [0x0x1091a74+62404]
+	(No symbol) [0x0xed2123]
+	(No symbol) [0x0xf1a86e]
+	(No symbol) [0x0xf1ac0b]
+	(No symbol) [0x0xf10081]
+	(No symbol) [0x0xf3f404]
+	(No symbol) [0x0xf0ffa4]
+	(No symbol) [0x0xf3f634]
+	(No symbol) [0x0xf607a3]
+	(No symbol) [0x0xf3f1b6]
+	(No symbol) [0x0xf0e7a2]
+	(No symbol) [0x0xf0f644]
+	GetHandleVerifier [0x0x13065c3+2637587]
+	GetHandleVerifier [0x0x13019ca+2618138]
+	GetHandleVerifier [0x0x10b84aa+220666]
+	GetHandleVerifier [0x0x10a88d8+156200]
+	GetHandleVerifier [0x0x10af06d+182717]
+	GetHandleVerifier [0x0x1099978+94920]
+	GetHandleVerifier [0x0x1099b02+95314]
+	GetHandleVerifier [0x0x1084c4a+9626]
+	(No symbol) [0x0x76b07ba9]
+	RtlInitializeExceptionChain [0x0x77b1c3ab+107]
+	RtlClearBits [0x0x77b1c32f+191]
+
+2025-07-16 15:18:02,144 - INFO - Scraped Bid ID: 8731
+2025-07-16 15:18:02,144 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:18:05,262 - INFO - Scraped Bid ID: 8734
+2025-07-16 15:18:05,262 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:18:08,394 - INFO - Scraped Bid ID: 8733
+2025-07-16 15:18:08,397 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:18:11,526 - INFO - Scraped Bid ID: 8732
+2025-07-16 15:18:11,526 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:18:14,640 - INFO - Scraped Bid ID: 8725
+2025-07-16 15:18:14,640 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:18:17,772 - INFO - Scraped Bid ID: 8724
+2025-07-16 15:18:17,772 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:18:20,889 - INFO - Scraped Bid ID: 8735
+2025-07-16 15:18:20,889 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:18:24,042 - INFO - Scraped Bid ID: 8738
+2025-07-16 15:18:24,042 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:18:27,167 - INFO - Scraped Bid ID: 8728
+2025-07-16 15:18:27,169 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:18:30,310 - INFO - Scraped Bid ID: 8722
+2025-07-16 15:18:30,312 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:18:33,452 - INFO - Scraped Bid ID: 8730
+2025-07-16 15:18:33,452 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:18:36,576 - INFO - Scraped Bid ID: 8727
+2025-07-16 15:18:36,576 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:18:39,697 - INFO - Scraped Bid ID: 8723
+2025-07-16 15:18:39,697 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:18:42,819 - INFO - Scraped Bid ID: 8726
+2025-07-16 15:18:42,821 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:18:45,965 - INFO - Scraped Bid ID: 8729
+2025-07-16 15:18:45,967 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:18:49,079 - INFO - Scraped Bid ID: 8720
+2025-07-16 15:18:49,079 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:18:52,207 - INFO - Scraped Bid ID: 8690
+2025-07-16 15:18:52,209 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:18:55,324 - INFO - Scraped Bid ID: 8719
+2025-07-16 15:18:55,324 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:18:58,457 - INFO - Scraped Bid ID: 8718
+2025-07-16 15:18:58,457 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:19:01,585 - INFO - Scraped Bid ID: 8716
+2025-07-16 15:19:01,585 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:19:03,629 - ERROR - Error processing a row: Message: no such element: Unable to locate element: {"method":"tag name","selector":"a"}
+  (Session info: chrome=138.0.7204.101); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x1091a33+62339]
+	GetHandleVerifier [0x0x1091a74+62404]
+	(No symbol) [0x0xed2123]
+	(No symbol) [0x0xf1a86e]
+	(No symbol) [0x0xf1ac0b]
+	(No symbol) [0x0xf10081]
+	(No symbol) [0x0xf3f404]
+	(No symbol) [0x0xf0ffa4]
+	(No symbol) [0x0xf3f634]
+	(No symbol) [0x0xf607a3]
+	(No symbol) [0x0xf3f1b6]
+	(No symbol) [0x0xf0e7a2]
+	(No symbol) [0x0xf0f644]
+	GetHandleVerifier [0x0x13065c3+2637587]
+	GetHandleVerifier [0x0x13019ca+2618138]
+	GetHandleVerifier [0x0x10b84aa+220666]
+	GetHandleVerifier [0x0x10a88d8+156200]
+	GetHandleVerifier [0x0x10af06d+182717]
+	GetHandleVerifier [0x0x1099978+94920]
+	GetHandleVerifier [0x0x1099b02+95314]
+	GetHandleVerifier [0x0x1084c4a+9626]
+	(No symbol) [0x0x76b07ba9]
+	RtlInitializeExceptionChain [0x0x77b1c3ab+107]
+	RtlClearBits [0x0x77b1c32f+191]
+
+2025-07-16 15:19:06,743 - INFO - Scraped Bid ID: 8709
+2025-07-16 15:19:06,743 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:19:09,906 - INFO - Scraped Bid ID: 8714
+2025-07-16 15:19:09,908 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:19:13,073 - INFO - Scraped Bid ID: 8707
+2025-07-16 15:19:13,073 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:19:16,215 - INFO - Scraped Bid ID: 8708
+2025-07-16 15:19:16,217 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:19:19,369 - INFO - Scraped Bid ID: 8710
+2025-07-16 15:19:19,373 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:19:22,519 - INFO - Scraped Bid ID: 8702
+2025-07-16 15:19:22,519 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:19:25,672 - INFO - Scraped Bid ID: 8711
+2025-07-16 15:19:25,673 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:19:28,830 - INFO - Scraped Bid ID: 8712
+2025-07-16 15:19:28,832 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:19:31,969 - INFO - Scraped Bid ID: 8705
+2025-07-16 15:19:31,969 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:19:35,092 - INFO - Scraped Bid ID: 8715
+2025-07-16 15:19:35,093 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:19:38,220 - INFO - Scraped Bid ID: 8706
+2025-07-16 15:19:38,220 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:19:41,332 - INFO - Scraped Bid ID: 8700
+2025-07-16 15:19:41,333 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:19:44,454 - INFO - Scraped Bid ID: 8704
+2025-07-16 15:19:44,454 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:19:47,600 - INFO - Scraped Bid ID: 8699
+2025-07-16 15:19:47,600 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:19:50,745 - INFO - Scraped Bid ID: 8703
+2025-07-16 15:19:50,747 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:19:53,880 - INFO - Scraped Bid ID: 8701
+2025-07-16 15:19:53,880 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:19:56,988 - INFO - Scraped Bid ID: 8695
+2025-07-16 15:19:56,988 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:20:00,126 - INFO - Scraped Bid ID: 8692
+2025-07-16 15:20:00,128 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:20:03,281 - INFO - Scraped Bid ID: 8691
+2025-07-16 15:20:03,283 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:20:06,444 - INFO - Scraped Bid ID: 8687
+2025-07-16 15:20:06,445 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:20:08,510 - ERROR - Error processing a row: Message: no such element: Unable to locate element: {"method":"tag name","selector":"a"}
+  (Session info: chrome=138.0.7204.101); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x1091a33+62339]
+	GetHandleVerifier [0x0x1091a74+62404]
+	(No symbol) [0x0xed2123]
+	(No symbol) [0x0xf1a86e]
+	(No symbol) [0x0xf1ac0b]
+	(No symbol) [0x0xf10081]
+	(No symbol) [0x0xf3f404]
+	(No symbol) [0x0xf0ffa4]
+	(No symbol) [0x0xf3f634]
+	(No symbol) [0x0xf607a3]
+	(No symbol) [0x0xf3f1b6]
+	(No symbol) [0x0xf0e7a2]
+	(No symbol) [0x0xf0f644]
+	GetHandleVerifier [0x0x13065c3+2637587]
+	GetHandleVerifier [0x0x13019ca+2618138]
+	GetHandleVerifier [0x0x10b84aa+220666]
+	GetHandleVerifier [0x0x10a88d8+156200]
+	GetHandleVerifier [0x0x10af06d+182717]
+	GetHandleVerifier [0x0x1099978+94920]
+	GetHandleVerifier [0x0x1099b02+95314]
+	GetHandleVerifier [0x0x1084c4a+9626]
+	(No symbol) [0x0x76b07ba9]
+	RtlInitializeExceptionChain [0x0x77b1c3ab+107]
+	RtlClearBits [0x0x77b1c32f+191]
+
+2025-07-16 15:20:11,680 - INFO - Scraped Bid ID: 8685
+2025-07-16 15:20:11,680 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:20:14,836 - INFO - Scraped Bid ID: 8682
+2025-07-16 15:20:14,836 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:20:18,000 - INFO - Scraped Bid ID: 8683
+2025-07-16 15:20:18,000 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:20:21,170 - INFO - Scraped Bid ID: 8684
+2025-07-16 15:20:21,175 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:20:24,323 - INFO - Scraped Bid ID: 8666
+2025-07-16 15:20:24,325 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:20:27,488 - INFO - Scraped Bid ID: 8681
+2025-07-16 15:20:27,488 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:20:30,655 - INFO - Scraped Bid ID: 8680
+2025-07-16 15:20:30,657 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:20:33,798 - INFO - Scraped Bid ID: 8677
+2025-07-16 15:20:33,798 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:20:36,944 - INFO - Scraped Bid ID: 8676
+2025-07-16 15:20:36,946 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:20:40,112 - INFO - Scraped Bid ID: 8670
+2025-07-16 15:20:40,112 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:20:43,249 - INFO - Scraped Bid ID: 8672
+2025-07-16 15:20:43,249 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:20:46,409 - INFO - Scraped Bid ID: 8647
+2025-07-16 15:20:46,409 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:20:49,582 - INFO - Scraped Bid ID: 8639
+2025-07-16 15:20:49,583 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:20:52,719 - INFO - Scraped Bid ID: 8635
+2025-07-16 15:20:52,719 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:20:54,844 - INFO - Scraping complete.
+2025-07-16 15:21:42,673 - INFO - ====== WebDriver manager ======
+2025-07-16 15:21:43,793 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-16 15:21:43,885 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-16 15:21:43,980 - INFO - Driver [C:\Users\harshs\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-16 15:21:45,270 - INFO - Existing Excel columns: ['Open', '8726', 'AOA25-CPA01-HAZSUB', 'DNREC Hazardous Substance Cleanup Fund Audit', '2025-07-07', '2025-08-25', 'AOA', '8411,9315', '7/7/2025', '8/25/2025 at 04:00 PM Local Time', 'michelle.salgado@delaware.gov', 'Unnamed: 11', "{'RFP - Professional Services': 'https://bidcondocs.delaware.gov/AOA/AOA25-CPA01-HAZSUB-rfp.pdf'}"]
+2025-07-16 15:21:45,270 - WARNING - Column 'Bid ID' not found in existing Excel file. Proceeding with empty ID set.
+2025-07-16 15:21:47,797 - INFO - Scraping category: Open
+2025-07-16 15:21:49,918 - ERROR - Error processing a row: Message: no such element: Unable to locate element: {"method":"tag name","selector":"a"}
+  (Session info: chrome=138.0.7204.101); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x1091a33+62339]
+	GetHandleVerifier [0x0x1091a74+62404]
+	(No symbol) [0x0xed2123]
+	(No symbol) [0x0xf1a86e]
+	(No symbol) [0x0xf1ac0b]
+	(No symbol) [0x0xf10081]
+	(No symbol) [0x0xf3f404]
+	(No symbol) [0x0xf0ffa4]
+	(No symbol) [0x0xf3f634]
+	(No symbol) [0x0xf607a3]
+	(No symbol) [0x0xf3f1b6]
+	(No symbol) [0x0xf0e7a2]
+	(No symbol) [0x0xf0f644]
+	GetHandleVerifier [0x0x13065c3+2637587]
+	GetHandleVerifier [0x0x13019ca+2618138]
+	GetHandleVerifier [0x0x10b84aa+220666]
+	GetHandleVerifier [0x0x10a88d8+156200]
+	GetHandleVerifier [0x0x10af06d+182717]
+	GetHandleVerifier [0x0x1099978+94920]
+	GetHandleVerifier [0x0x1099b02+95314]
+	GetHandleVerifier [0x0x1084c4a+9626]
+	(No symbol) [0x0x76b07ba9]
+	RtlInitializeExceptionChain [0x0x77b1c3ab+107]
+	RtlClearBits [0x0x77b1c32f+191]
+
+2025-07-16 15:21:53,080 - INFO - Scraped Bid ID: 8731
+2025-07-16 15:21:53,080 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:21:56,199 - INFO - Scraped Bid ID: 8734
+2025-07-16 15:21:56,208 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:21:59,356 - INFO - Scraped Bid ID: 8733
+2025-07-16 15:21:59,356 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:22:02,492 - INFO - Scraped Bid ID: 8732
+2025-07-16 15:22:02,495 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:22:05,611 - INFO - Scraped Bid ID: 8725
+2025-07-16 15:22:05,623 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:22:08,752 - INFO - Scraped Bid ID: 8724
+2025-07-16 15:22:08,766 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:22:11,878 - INFO - Scraped Bid ID: 8735
+2025-07-16 15:22:11,878 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:22:15,020 - INFO - Scraped Bid ID: 8738
+2025-07-16 15:22:15,029 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:22:18,172 - INFO - Scraped Bid ID: 8728
+2025-07-16 15:22:18,177 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:22:21,325 - INFO - Scraped Bid ID: 8722
+2025-07-16 15:22:21,327 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:22:24,467 - INFO - Scraped Bid ID: 8730
+2025-07-16 15:22:24,476 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:22:27,590 - INFO - Scraped Bid ID: 8727
+2025-07-16 15:22:27,597 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:22:30,740 - INFO - Scraped Bid ID: 8723
+2025-07-16 15:22:30,741 - ERROR - Error processing a row: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:29:18,466 - INFO - ====== WebDriver manager ======
+2025-07-16 15:29:19,902 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-16 15:29:20,002 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-16 15:29:20,071 - INFO - Driver [C:\Users\harshs\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-16 15:29:21,411 - INFO - Existing Excel columns: ['Open', '8727', 'DOT242187-2189-ATCC', 'Active Transportation & Community Connections (ATTC) Consultant Services', '2025-07-11', '2025-08-07', 'DOT', '8110', '7/11/2025', '8/7/2025 at 02:00 PM Local Time', 'DOT.profservices@delaware.gov', 'Unnamed: 11', "{'RFP - Professional Services': 'https://bidcondocs.delaware.gov/DOT/DOT242187-2189-ATCC-rfp.pdf'}"]
+2025-07-16 15:29:21,411 - WARNING - Column 'Bid ID' not found. Proceeding with empty ID set.
+2025-07-16 15:29:23,974 - INFO - Scraping category: Open
+2025-07-16 15:29:29,282 - INFO - Scraped Bid ID: 8731
+2025-07-16 15:29:32,407 - INFO - Scraped Bid ID: 8734
+2025-07-16 15:29:35,557 - INFO - Scraped Bid ID: 8733
+2025-07-16 15:29:38,692 - INFO - Scraped Bid ID: 8732
+2025-07-16 15:29:41,832 - INFO - Scraped Bid ID: 8725
+2025-07-16 15:29:44,976 - INFO - Scraped Bid ID: 8724
+2025-07-16 15:29:48,102 - INFO - Scraped Bid ID: 8735
+2025-07-16 15:29:51,290 - INFO - Scraped Bid ID: 8738
+2025-07-16 15:29:54,470 - INFO - Scraped Bid ID: 8728
+2025-07-16 15:29:57,627 - INFO - Scraped Bid ID: 8722
+2025-07-16 15:30:00,778 - INFO - Scraped Bid ID: 8730
+2025-07-16 15:30:03,904 - INFO - Scraped Bid ID: 8727
+2025-07-16 15:30:07,030 - INFO - Scraped Bid ID: 8723
+2025-07-16 15:30:10,156 - INFO - Scraped Bid ID: 8726
+2025-07-16 15:30:13,314 - INFO - Scraped Bid ID: 8729
+2025-07-16 15:30:16,435 - INFO - Scraped Bid ID: 8720
+2025-07-16 15:30:19,553 - INFO - Scraped Bid ID: 8690
+2025-07-16 15:30:22,688 - INFO - Scraped Bid ID: 8719
+2025-07-16 15:30:25,808 - INFO - Scraped Bid ID: 8718
+2025-07-16 15:31:53,069 - INFO - ====== WebDriver manager ======
+2025-07-16 15:31:54,182 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-16 15:31:54,256 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-16 15:31:54,326 - INFO - Driver [C:\Users\harshs\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-16 15:31:55,634 - INFO - Existing Excel columns: ['Open', '8718', 'DOT2152-VWS', 'Virtual Weigh Stations', '2025-06-30', '2025-07-31', 'DOT', '4323', '6/30/2025', '7/31/2025 at 02:00 PM Local Time', 'DOT.profservices@delaware.gov', 'Unnamed: 11', "{'RFP - Professional Services': 'https://bidcondocs.delaware.gov/DOT/DOT2152-VWS-rfp.pdf'}"]
+2025-07-16 15:31:55,634 - WARNING - Column 'Bid ID' not found. Proceeding with empty ID set.
+2025-07-16 15:31:57,934 - INFO - Scraping category: Open
+2025-07-16 15:32:00,047 - ERROR - Error processing row: Message: no such element: Unable to locate element: {"method":"tag name","selector":"a"}
+  (Session info: chrome=138.0.7204.101); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x1091a33+62339]
+	GetHandleVerifier [0x0x1091a74+62404]
+	(No symbol) [0x0xed2123]
+	(No symbol) [0x0xf1a86e]
+	(No symbol) [0x0xf1ac0b]
+	(No symbol) [0x0xf10081]
+	(No symbol) [0x0xf3f404]
+	(No symbol) [0x0xf0ffa4]
+	(No symbol) [0x0xf3f634]
+	(No symbol) [0x0xf607a3]
+	(No symbol) [0x0xf3f1b6]
+	(No symbol) [0x0xf0e7a2]
+	(No symbol) [0x0xf0f644]
+	GetHandleVerifier [0x0x13065c3+2637587]
+	GetHandleVerifier [0x0x13019ca+2618138]
+	GetHandleVerifier [0x0x10b84aa+220666]
+	GetHandleVerifier [0x0x10a88d8+156200]
+	GetHandleVerifier [0x0x10af06d+182717]
+	GetHandleVerifier [0x0x1099978+94920]
+	GetHandleVerifier [0x0x1099b02+95314]
+	GetHandleVerifier [0x0x1084c4a+9626]
+	(No symbol) [0x0x76b07ba9]
+	RtlInitializeExceptionChain [0x0x77b1c3ab+107]
+	RtlClearBits [0x0x77b1c32f+191]
+
+2025-07-16 15:32:03,245 - INFO - Scraped Bid ID: 8731
+2025-07-16 15:32:03,255 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:32:06,375 - INFO - Scraped Bid ID: 8734
+2025-07-16 15:32:06,377 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:32:09,520 - INFO - Scraped Bid ID: 8733
+2025-07-16 15:32:09,527 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:32:12,808 - INFO - ====== WebDriver manager ======
+2025-07-16 15:32:13,866 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-16 15:32:13,957 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-16 15:32:14,078 - INFO - Driver [C:\Users\harshs\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-16 15:32:15,366 - INFO - Existing Excel columns: ['Category', 'Bid ID', 'Contract Number', 'Title', 'Open Date', 'Deadline', 'Agency', 'UNSPSC', 'Solicitation Ad Date', 'Deadline for Bid Responses', 'Contact Email', 'Important Message', 'Documents']
+2025-07-16 15:32:15,366 - INFO - Loaded 1 previously scraped bids.
+2025-07-16 15:32:17,691 - INFO - Scraping category: Open
+2025-07-16 15:32:19,800 - ERROR - Error processing row: Message: no such element: Unable to locate element: {"method":"tag name","selector":"a"}
+  (Session info: chrome=138.0.7204.101); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x1091a33+62339]
+	GetHandleVerifier [0x0x1091a74+62404]
+	(No symbol) [0x0xed2123]
+	(No symbol) [0x0xf1a86e]
+	(No symbol) [0x0xf1ac0b]
+	(No symbol) [0x0xf10081]
+	(No symbol) [0x0xf3f404]
+	(No symbol) [0x0xf0ffa4]
+	(No symbol) [0x0xf3f634]
+	(No symbol) [0x0xf607a3]
+	(No symbol) [0x0xf3f1b6]
+	(No symbol) [0x0xf0e7a2]
+	(No symbol) [0x0xf0f644]
+	GetHandleVerifier [0x0x13065c3+2637587]
+	GetHandleVerifier [0x0x13019ca+2618138]
+	GetHandleVerifier [0x0x10b84aa+220666]
+	GetHandleVerifier [0x0x10a88d8+156200]
+	GetHandleVerifier [0x0x10af06d+182717]
+	GetHandleVerifier [0x0x1099978+94920]
+	GetHandleVerifier [0x0x1099b02+95314]
+	GetHandleVerifier [0x0x1084c4a+9626]
+	(No symbol) [0x0x76b07ba9]
+	RtlInitializeExceptionChain [0x0x77b1c3ab+107]
+	RtlClearBits [0x0x77b1c32f+191]
+
+2025-07-16 15:32:22,992 - INFO - Scraped Bid ID: 8731
+2025-07-16 15:32:22,998 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:32:26,119 - INFO - Scraped Bid ID: 8734
+2025-07-16 15:32:26,131 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:32:26,136 - INFO - Skipping already scraped Bid ID: 8733
+2025-07-16 15:32:29,289 - INFO - Scraped Bid ID: 8732
+2025-07-16 15:32:29,301 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:32:32,407 - INFO - Scraped Bid ID: 8725
+2025-07-16 15:32:32,418 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:32:35,554 - INFO - Scraped Bid ID: 8724
+2025-07-16 15:32:35,562 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:32:38,678 - INFO - Scraped Bid ID: 8735
+2025-07-16 15:32:38,683 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:32:41,839 - INFO - Scraped Bid ID: 8738
+2025-07-16 15:32:41,852 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:32:44,976 - INFO - Scraped Bid ID: 8728
+2025-07-16 15:32:44,977 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:32:48,149 - INFO - Scraped Bid ID: 8722
+2025-07-16 15:32:48,149 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:32:51,296 - INFO - Scraped Bid ID: 8730
+2025-07-16 15:32:51,305 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:32:54,417 - INFO - Scraped Bid ID: 8727
+2025-07-16 15:32:54,429 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:32:57,541 - INFO - Scraped Bid ID: 8723
+2025-07-16 15:32:57,541 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:32:57,541 - WARNING - 'stop.txt' file detected. Stopping scraper.
+2025-07-16 15:33:10,358 - INFO - ====== WebDriver manager ======
+2025-07-16 15:33:11,458 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-16 15:33:11,563 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-16 15:33:11,652 - INFO - Driver [C:\Users\harshs\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-16 15:33:12,920 - INFO - Existing Excel columns: ['Open', '8723', 'AOA25-CPA01-WATER', 'DNREC Water Revolving Loan Funds', '2025-07-07', '2025-08-25', 'AOA', '8411,9315', '7/7/2025', '8/25/2025 at 04:00 PM Local Time', 'michelle.salgado@delaware.gov', 'Unnamed: 11', "{'RFP - Professional Services': 'https://bidcondocs.delaware.gov/AOA/AOA25-CPA01-WATER-rfp.pdf'}"]
+2025-07-16 15:33:12,920 - WARNING - Column 'Bid ID' not found. Proceeding with empty ID set.
+2025-07-16 15:33:15,397 - INFO - Scraping category: Open
+2025-07-16 15:33:17,473 - WARNING - 'stop.txt' file detected. Stopping scraper.
+2025-07-16 15:34:11,690 - INFO - ====== WebDriver manager ======
+2025-07-16 15:34:12,762 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-16 15:34:12,841 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-16 15:34:12,922 - INFO - Driver [C:\Users\harshs\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-16 15:34:14,262 - INFO - Existing Excel columns: ['Open', '8723', 'AOA25-CPA01-WATER', 'DNREC Water Revolving Loan Funds', '2025-07-07', '2025-08-25', 'AOA', '8411,9315', '7/7/2025', '8/25/2025 at 04:00 PM Local Time', 'michelle.salgado@delaware.gov', 'Unnamed: 11', "{'RFP - Professional Services': 'https://bidcondocs.delaware.gov/AOA/AOA25-CPA01-WATER-rfp.pdf'}"]
+2025-07-16 15:34:14,271 - WARNING - Column 'Bid ID' not found. Proceeding with empty ID set.
+2025-07-16 15:34:16,513 - INFO - Scraping category: Open
+2025-07-16 15:34:18,643 - ERROR - Error processing row: Message: no such element: Unable to locate element: {"method":"tag name","selector":"a"}
+  (Session info: chrome=138.0.7204.101); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x1091a33+62339]
+	GetHandleVerifier [0x0x1091a74+62404]
+	(No symbol) [0x0xed2123]
+	(No symbol) [0x0xf1a86e]
+	(No symbol) [0x0xf1ac0b]
+	(No symbol) [0x0xf10081]
+	(No symbol) [0x0xf3f404]
+	(No symbol) [0x0xf0ffa4]
+	(No symbol) [0x0xf3f634]
+	(No symbol) [0x0xf607a3]
+	(No symbol) [0x0xf3f1b6]
+	(No symbol) [0x0xf0e7a2]
+	(No symbol) [0x0xf0f644]
+	GetHandleVerifier [0x0x13065c3+2637587]
+	GetHandleVerifier [0x0x13019ca+2618138]
+	GetHandleVerifier [0x0x10b84aa+220666]
+	GetHandleVerifier [0x0x10a88d8+156200]
+	GetHandleVerifier [0x0x10af06d+182717]
+	GetHandleVerifier [0x0x1099978+94920]
+	GetHandleVerifier [0x0x1099b02+95314]
+	GetHandleVerifier [0x0x1084c4a+9626]
+	(No symbol) [0x0x76b07ba9]
+	RtlInitializeExceptionChain [0x0x77b1c3ab+107]
+	RtlClearBits [0x0x77b1c32f+191]
+
+2025-07-16 15:34:21,808 - INFO - Scraped Bid ID: 8731
+2025-07-16 15:34:21,808 - ERROR - Excel file locked: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:34:21,808 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:34:24,943 - INFO - Scraped Bid ID: 8734
+2025-07-16 15:34:24,943 - ERROR - Excel file locked: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:34:24,943 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:34:28,085 - INFO - Scraped Bid ID: 8733
+2025-07-16 15:34:28,085 - ERROR - Excel file locked: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:34:28,085 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:34:31,218 - INFO - Scraped Bid ID: 8732
+2025-07-16 15:34:31,218 - ERROR - Excel file locked: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:34:31,218 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:34:34,327 - INFO - Scraped Bid ID: 8725
+2025-07-16 15:34:34,332 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:34:39,802 - INFO - ====== WebDriver manager ======
+2025-07-16 15:34:40,874 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-16 15:34:40,962 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-16 15:34:41,028 - INFO - Driver [C:\Users\harshs\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-16 15:34:42,248 - INFO - Existing Excel columns: ['Open', '8725', 'AGR26002R-TIMBERSALE', 'Redden State Forest - Bailey Tract - Timber Sale', '2025-07-15', '2025-08-15', 'AGR', '1112', '7/15/2025', '8/15/2025 at 01:00 PM Local Time', 'chris.miller@delaware.gov', 'Unnamed: 11', "{'RFP - Materiel and Nonprofessional Services': 'https://bidcondocs.delaware.gov/AGR/AGR26002R-TIMBERSALE-rfp.docx'}"]
+2025-07-16 15:34:42,248 - WARNING - Column 'Bid ID' not found. Proceeding with empty ID set.
+2025-07-16 15:34:44,711 - INFO - Scraping category: Open
+2025-07-16 15:34:46,819 - ERROR - Error processing row: Message: no such element: Unable to locate element: {"method":"tag name","selector":"a"}
+  (Session info: chrome=138.0.7204.101); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x1091a33+62339]
+	GetHandleVerifier [0x0x1091a74+62404]
+	(No symbol) [0x0xed2123]
+	(No symbol) [0x0xf1a86e]
+	(No symbol) [0x0xf1ac0b]
+	(No symbol) [0x0xf10081]
+	(No symbol) [0x0xf3f404]
+	(No symbol) [0x0xf0ffa4]
+	(No symbol) [0x0xf3f634]
+	(No symbol) [0x0xf607a3]
+	(No symbol) [0x0xf3f1b6]
+	(No symbol) [0x0xf0e7a2]
+	(No symbol) [0x0xf0f644]
+	GetHandleVerifier [0x0x13065c3+2637587]
+	GetHandleVerifier [0x0x13019ca+2618138]
+	GetHandleVerifier [0x0x10b84aa+220666]
+	GetHandleVerifier [0x0x10a88d8+156200]
+	GetHandleVerifier [0x0x10af06d+182717]
+	GetHandleVerifier [0x0x1099978+94920]
+	GetHandleVerifier [0x0x1099b02+95314]
+	GetHandleVerifier [0x0x1084c4a+9626]
+	(No symbol) [0x0x76b07ba9]
+	RtlInitializeExceptionChain [0x0x77b1c3ab+107]
+	RtlClearBits [0x0x77b1c32f+191]
+
+2025-07-16 15:34:50,001 - INFO - Scraped Bid ID: 8731
+2025-07-16 15:34:50,014 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:34:53,115 - INFO - Scraped Bid ID: 8734
+2025-07-16 15:34:53,125 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:34:56,269 - INFO - Scraped Bid ID: 8733
+2025-07-16 15:34:56,282 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:34:59,408 - INFO - Scraped Bid ID: 8732
+2025-07-16 15:34:59,423 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:35:02,535 - INFO - Scraped Bid ID: 8725
+2025-07-16 15:35:02,547 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:35:05,669 - INFO - Scraped Bid ID: 8724
+2025-07-16 15:35:05,669 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:35:08,784 - INFO - Scraped Bid ID: 8735
+2025-07-16 15:35:08,795 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:35:11,944 - INFO - Scraped Bid ID: 8738
+2025-07-16 15:35:11,946 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:35:15,088 - INFO - Scraped Bid ID: 8728
+2025-07-16 15:35:15,098 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:35:18,232 - INFO - Scraped Bid ID: 8722
+2025-07-16 15:35:18,236 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:35:21,388 - INFO - Scraped Bid ID: 8730
+2025-07-16 15:35:21,407 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:35:24,522 - INFO - Scraped Bid ID: 8727
+2025-07-16 15:35:24,531 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:35:24,531 - WARNING - 'stop.txt' file detected. Stopping scraper.
+2025-07-16 15:39:01,785 - INFO - ====== WebDriver manager ======
+2025-07-16 15:39:02,984 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-16 15:39:03,081 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-16 15:39:03,198 - INFO - Driver [C:\Users\harshs\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-16 15:39:04,459 - INFO - Existing Excel columns: ['Open', '8727', 'DOT242187-2189-ATCC', 'Active Transportation & Community Connections (ATTC) Consultant Services', '2025-07-11', '2025-08-07', 'DOT', '8110', '7/11/2025', '8/7/2025 at 02:00 PM Local Time', 'DOT.profservices@delaware.gov', 'Unnamed: 11', "{'RFP - Professional Services': 'https://bidcondocs.delaware.gov/DOT/DOT242187-2189-ATCC-rfp.pdf'}"]
+2025-07-16 15:39:04,459 - WARNING - Column 'Bid ID' not found. Proceeding with empty ID set.
+2025-07-16 15:39:06,988 - INFO - Scraping category: Open
+2025-07-16 15:39:09,099 - ERROR - Error processing row: Message: no such element: Unable to locate element: {"method":"tag name","selector":"a"}
+  (Session info: chrome=138.0.7204.101); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x1091a33+62339]
+	GetHandleVerifier [0x0x1091a74+62404]
+	(No symbol) [0x0xed2123]
+	(No symbol) [0x0xf1a86e]
+	(No symbol) [0x0xf1ac0b]
+	(No symbol) [0x0xf10081]
+	(No symbol) [0x0xf3f404]
+	(No symbol) [0x0xf0ffa4]
+	(No symbol) [0x0xf3f634]
+	(No symbol) [0x0xf607a3]
+	(No symbol) [0x0xf3f1b6]
+	(No symbol) [0x0xf0e7a2]
+	(No symbol) [0x0xf0f644]
+	GetHandleVerifier [0x0x13065c3+2637587]
+	GetHandleVerifier [0x0x13019ca+2618138]
+	GetHandleVerifier [0x0x10b84aa+220666]
+	GetHandleVerifier [0x0x10a88d8+156200]
+	GetHandleVerifier [0x0x10af06d+182717]
+	GetHandleVerifier [0x0x1099978+94920]
+	GetHandleVerifier [0x0x1099b02+95314]
+	GetHandleVerifier [0x0x1084c4a+9626]
+	(No symbol) [0x0x76b07ba9]
+	RtlInitializeExceptionChain [0x0x77b1c3ab+107]
+	RtlClearBits [0x0x77b1c32f+191]
+
+2025-07-16 15:39:12,255 - INFO - Scraped Bid ID: 8731
+2025-07-16 15:39:12,265 - ERROR - Excel file locked: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:39:12,265 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:39:15,377 - INFO - Scraped Bid ID: 8734
+2025-07-16 15:39:15,377 - ERROR - Excel file locked: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:39:15,377 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:39:18,524 - INFO - Scraped Bid ID: 8733
+2025-07-16 15:39:18,524 - ERROR - Excel file locked: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:39:18,524 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:39:21,655 - INFO - Scraped Bid ID: 8732
+2025-07-16 15:39:21,655 - ERROR - Excel file locked: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:39:21,655 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:39:24,763 - INFO - Scraped Bid ID: 8725
+2025-07-16 15:39:24,763 - ERROR - Excel file locked: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:39:24,763 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:39:27,896 - INFO - Scraped Bid ID: 8724
+2025-07-16 15:39:27,900 - ERROR - Excel file locked: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:39:27,900 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:39:31,007 - INFO - Scraped Bid ID: 8735
+2025-07-16 15:39:31,019 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:39:40,643 - INFO - ====== WebDriver manager ======
+2025-07-16 15:39:41,829 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-16 15:39:41,922 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-16 15:39:42,032 - INFO - Driver [C:\Users\harshs\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-16 15:39:45,610 - INFO - Scraping category: Open
+2025-07-16 15:39:47,739 - ERROR - Error processing row: Message: no such element: Unable to locate element: {"method":"tag name","selector":"a"}
+  (Session info: chrome=138.0.7204.101); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x1091a33+62339]
+	GetHandleVerifier [0x0x1091a74+62404]
+	(No symbol) [0x0xed2123]
+	(No symbol) [0x0xf1a86e]
+	(No symbol) [0x0xf1ac0b]
+	(No symbol) [0x0xf10081]
+	(No symbol) [0x0xf3f404]
+	(No symbol) [0x0xf0ffa4]
+	(No symbol) [0x0xf3f634]
+	(No symbol) [0x0xf607a3]
+	(No symbol) [0x0xf3f1b6]
+	(No symbol) [0x0xf0e7a2]
+	(No symbol) [0x0xf0f644]
+	GetHandleVerifier [0x0x13065c3+2637587]
+	GetHandleVerifier [0x0x13019ca+2618138]
+	GetHandleVerifier [0x0x10b84aa+220666]
+	GetHandleVerifier [0x0x10a88d8+156200]
+	GetHandleVerifier [0x0x10af06d+182717]
+	GetHandleVerifier [0x0x1099978+94920]
+	GetHandleVerifier [0x0x1099b02+95314]
+	GetHandleVerifier [0x0x1084c4a+9626]
+	(No symbol) [0x0x76b07ba9]
+	RtlInitializeExceptionChain [0x0x77b1c3ab+107]
+	RtlClearBits [0x0x77b1c32f+191]
+
+2025-07-16 15:39:50,920 - INFO - Scraped Bid ID: 8731
+2025-07-16 15:39:50,931 - INFO - Created new Excel file with headers.
+2025-07-16 15:39:50,931 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:39:54,050 - INFO - Scraped Bid ID: 8734
+2025-07-16 15:39:54,064 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:39:57,195 - INFO - Scraped Bid ID: 8733
+2025-07-16 15:39:57,216 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:40:00,369 - INFO - Scraped Bid ID: 8732
+2025-07-16 15:40:00,371 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:40:03,499 - INFO - Scraped Bid ID: 8725
+2025-07-16 15:40:03,516 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:40:06,658 - INFO - Scraped Bid ID: 8724
+2025-07-16 15:40:06,669 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:40:09,783 - INFO - Scraped Bid ID: 8735
+2025-07-16 15:40:09,799 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:40:12,940 - INFO - Scraped Bid ID: 8738
+2025-07-16 15:40:12,952 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:40:16,098 - INFO - Scraped Bid ID: 8728
+2025-07-16 15:40:16,114 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:40:19,282 - INFO - Scraped Bid ID: 8722
+2025-07-16 15:40:19,282 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:40:22,446 - INFO - Scraped Bid ID: 8730
+2025-07-16 15:40:22,465 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:40:25,595 - INFO - Scraped Bid ID: 8727
+2025-07-16 15:40:25,608 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:40:28,715 - INFO - Scraped Bid ID: 8723
+2025-07-16 15:40:28,734 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:40:31,843 - INFO - Scraped Bid ID: 8726
+2025-07-16 15:40:31,880 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:40:35,046 - INFO - Scraped Bid ID: 8729
+2025-07-16 15:40:35,055 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:40:38,186 - INFO - Scraped Bid ID: 8720
+2025-07-16 15:40:38,208 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:40:38,675 - WARNING - Scraping interrupted by user (Ctrl+C). Shutting down gracefully.
+2025-07-16 15:40:38,678 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/c7b8959f64e26e5ce3152203c4269b08
+2025-07-16 15:40:42,725 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B571C77690>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c7b8959f64e26e5ce3152203c4269b08
+2025-07-16 15:40:46,808 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B571C87C90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c7b8959f64e26e5ce3152203c4269b08
+2025-07-16 15:41:13,043 - INFO - ====== WebDriver manager ======
+2025-07-16 15:41:14,345 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-16 15:41:14,510 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-16 15:41:14,585 - INFO - Driver [C:\Users\harshs\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-16 15:41:15,812 - INFO - Existing Excel columns: ['Category', 'Bid ID', 'Contract Number', 'Title', 'Open Date', 'Deadline', 'Agency', 'UNSPSC', 'Solicitation Ad Date', 'Deadline for Bid Responses', 'Contact Email', 'Important Message', 'Documents']
+2025-07-16 15:41:15,812 - INFO - Loaded 16 previously scraped bids.
+2025-07-16 15:41:18,279 - INFO - Scraping category: Open
+2025-07-16 15:41:20,405 - ERROR - Error processing row: Message: no such element: Unable to locate element: {"method":"tag name","selector":"a"}
+  (Session info: chrome=138.0.7204.101); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x1091a33+62339]
+	GetHandleVerifier [0x0x1091a74+62404]
+	(No symbol) [0x0xed2123]
+	(No symbol) [0x0xf1a86e]
+	(No symbol) [0x0xf1ac0b]
+	(No symbol) [0x0xf10081]
+	(No symbol) [0x0xf3f404]
+	(No symbol) [0x0xf0ffa4]
+	(No symbol) [0x0xf3f634]
+	(No symbol) [0x0xf607a3]
+	(No symbol) [0x0xf3f1b6]
+	(No symbol) [0x0xf0e7a2]
+	(No symbol) [0x0xf0f644]
+	GetHandleVerifier [0x0x13065c3+2637587]
+	GetHandleVerifier [0x0x13019ca+2618138]
+	GetHandleVerifier [0x0x10b84aa+220666]
+	GetHandleVerifier [0x0x10a88d8+156200]
+	GetHandleVerifier [0x0x10af06d+182717]
+	GetHandleVerifier [0x0x1099978+94920]
+	GetHandleVerifier [0x0x1099b02+95314]
+	GetHandleVerifier [0x0x1084c4a+9626]
+	(No symbol) [0x0x76b07ba9]
+	RtlInitializeExceptionChain [0x0x77b1c3ab+107]
+	RtlClearBits [0x0x77b1c32f+191]
+
+2025-07-16 15:41:20,428 - INFO - Skipping already scraped Bid ID: 8731
+2025-07-16 15:41:20,438 - INFO - Skipping already scraped Bid ID: 8734
+2025-07-16 15:41:20,450 - INFO - Skipping already scraped Bid ID: 8733
+2025-07-16 15:41:20,459 - INFO - Skipping already scraped Bid ID: 8732
+2025-07-16 15:41:20,472 - INFO - Skipping already scraped Bid ID: 8725
+2025-07-16 15:41:20,477 - INFO - Skipping already scraped Bid ID: 8724
+2025-07-16 15:41:20,491 - INFO - Skipping already scraped Bid ID: 8735
+2025-07-16 15:41:20,497 - INFO - Skipping already scraped Bid ID: 8738
+2025-07-16 15:41:20,515 - INFO - Skipping already scraped Bid ID: 8728
+2025-07-16 15:41:20,526 - INFO - Skipping already scraped Bid ID: 8722
+2025-07-16 15:41:20,537 - INFO - Skipping already scraped Bid ID: 8730
+2025-07-16 15:41:20,548 - INFO - Skipping already scraped Bid ID: 8727
+2025-07-16 15:41:20,560 - INFO - Skipping already scraped Bid ID: 8723
+2025-07-16 15:41:20,570 - INFO - Skipping already scraped Bid ID: 8726
+2025-07-16 15:41:20,583 - INFO - Skipping already scraped Bid ID: 8729
+2025-07-16 15:41:20,595 - INFO - Skipping already scraped Bid ID: 8720
+2025-07-16 15:41:23,745 - INFO - Scraped Bid ID: 8690
+2025-07-16 15:41:23,748 - ERROR - Excel file locked: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:41:23,748 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:41:26,874 - INFO - Scraped Bid ID: 8719
+2025-07-16 15:41:26,881 - ERROR - Excel file locked: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:41:26,881 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:41:29,999 - INFO - Scraped Bid ID: 8718
+2025-07-16 15:41:29,999 - ERROR - Excel file locked: [Errno 13] Permission denied: 'delaware_bids_all_categories.xlsx'
+2025-07-16 15:41:29,999 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:41:33,911 - INFO - ====== WebDriver manager ======
+2025-07-16 15:41:34,929 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-16 15:41:35,012 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-16 15:41:35,083 - INFO - Driver [C:\Users\harshs\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-16 15:41:36,218 - INFO - Existing Excel columns: ['Category', 'Bid ID', 'Contract Number', 'Title', 'Open Date', 'Deadline', 'Agency', 'UNSPSC', 'Solicitation Ad Date', 'Deadline for Bid Responses', 'Contact Email', 'Important Message', 'Documents']
+2025-07-16 15:41:36,218 - INFO - Loaded 16 previously scraped bids.
+2025-07-16 15:41:38,619 - INFO - Scraping category: Open
+2025-07-16 15:41:40,729 - ERROR - Error processing row: Message: no such element: Unable to locate element: {"method":"tag name","selector":"a"}
+  (Session info: chrome=138.0.7204.101); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x1091a33+62339]
+	GetHandleVerifier [0x0x1091a74+62404]
+	(No symbol) [0x0xed2123]
+	(No symbol) [0x0xf1a86e]
+	(No symbol) [0x0xf1ac0b]
+	(No symbol) [0x0xf10081]
+	(No symbol) [0x0xf3f404]
+	(No symbol) [0x0xf0ffa4]
+	(No symbol) [0x0xf3f634]
+	(No symbol) [0x0xf607a3]
+	(No symbol) [0x0xf3f1b6]
+	(No symbol) [0x0xf0e7a2]
+	(No symbol) [0x0xf0f644]
+	GetHandleVerifier [0x0x13065c3+2637587]
+	GetHandleVerifier [0x0x13019ca+2618138]
+	GetHandleVerifier [0x0x10b84aa+220666]
+	GetHandleVerifier [0x0x10a88d8+156200]
+	GetHandleVerifier [0x0x10af06d+182717]
+	GetHandleVerifier [0x0x1099978+94920]
+	GetHandleVerifier [0x0x1099b02+95314]
+	GetHandleVerifier [0x0x1084c4a+9626]
+	(No symbol) [0x0x76b07ba9]
+	RtlInitializeExceptionChain [0x0x77b1c3ab+107]
+	RtlClearBits [0x0x77b1c32f+191]
+
+2025-07-16 15:41:40,751 - INFO - Skipping already scraped Bid ID: 8731
+2025-07-16 15:41:40,757 - INFO - Skipping already scraped Bid ID: 8734
+2025-07-16 15:41:40,771 - INFO - Skipping already scraped Bid ID: 8733
+2025-07-16 15:41:40,781 - INFO - Skipping already scraped Bid ID: 8732
+2025-07-16 15:41:40,791 - INFO - Skipping already scraped Bid ID: 8725
+2025-07-16 15:41:40,801 - INFO - Skipping already scraped Bid ID: 8724
+2025-07-16 15:41:40,813 - INFO - Skipping already scraped Bid ID: 8735
+2025-07-16 15:41:40,823 - INFO - Skipping already scraped Bid ID: 8738
+2025-07-16 15:41:40,829 - INFO - Skipping already scraped Bid ID: 8728
+2025-07-16 15:41:40,842 - INFO - Skipping already scraped Bid ID: 8722
+2025-07-16 15:41:40,851 - INFO - Skipping already scraped Bid ID: 8730
+2025-07-16 15:41:40,861 - INFO - Skipping already scraped Bid ID: 8727
+2025-07-16 15:41:40,872 - INFO - Skipping already scraped Bid ID: 8723
+2025-07-16 15:41:40,882 - INFO - Skipping already scraped Bid ID: 8726
+2025-07-16 15:41:40,891 - INFO - Skipping already scraped Bid ID: 8729
+2025-07-16 15:41:40,899 - INFO - Skipping already scraped Bid ID: 8720
+2025-07-16 15:41:44,030 - INFO - Scraped Bid ID: 8690
+2025-07-16 15:41:44,046 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:41:47,163 - INFO - Scraped Bid ID: 8719
+2025-07-16 15:41:47,180 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:41:50,295 - INFO - Scraped Bid ID: 8718
+2025-07-16 15:41:50,313 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:41:53,439 - INFO - Scraped Bid ID: 8716
+2025-07-16 15:41:53,460 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:41:55,508 - ERROR - Error processing row: Message: no such element: Unable to locate element: {"method":"tag name","selector":"a"}
+  (Session info: chrome=138.0.7204.101); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x1091a33+62339]
+	GetHandleVerifier [0x0x1091a74+62404]
+	(No symbol) [0x0xed2123]
+	(No symbol) [0x0xf1a86e]
+	(No symbol) [0x0xf1ac0b]
+	(No symbol) [0x0xf10081]
+	(No symbol) [0x0xf3f404]
+	(No symbol) [0x0xf0ffa4]
+	(No symbol) [0x0xf3f634]
+	(No symbol) [0x0xf607a3]
+	(No symbol) [0x0xf3f1b6]
+	(No symbol) [0x0xf0e7a2]
+	(No symbol) [0x0xf0f644]
+	GetHandleVerifier [0x0x13065c3+2637587]
+	GetHandleVerifier [0x0x13019ca+2618138]
+	GetHandleVerifier [0x0x10b84aa+220666]
+	GetHandleVerifier [0x0x10a88d8+156200]
+	GetHandleVerifier [0x0x10af06d+182717]
+	GetHandleVerifier [0x0x1099978+94920]
+	GetHandleVerifier [0x0x1099b02+95314]
+	GetHandleVerifier [0x0x1084c4a+9626]
+	(No symbol) [0x0x76b07ba9]
+	RtlInitializeExceptionChain [0x0x77b1c3ab+107]
+	RtlClearBits [0x0x77b1c32f+191]
+
+2025-07-16 15:41:58,625 - INFO - Scraped Bid ID: 8709
+2025-07-16 15:41:58,643 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:42:01,782 - INFO - Scraped Bid ID: 8714
+2025-07-16 15:42:01,801 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:49:00,782 - INFO - ====== WebDriver manager ======
+2025-07-16 15:49:02,033 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-16 15:49:02,115 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-16 15:49:02,192 - INFO - Driver [C:\Users\harshs\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-16 15:49:05,832 - INFO - Scraping category: Open
+2025-07-16 15:49:07,955 - ERROR - Error processing row: Message: no such element: Unable to locate element: {"method":"tag name","selector":"a"}
+  (Session info: chrome=138.0.7204.101); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x1091a33+62339]
+	GetHandleVerifier [0x0x1091a74+62404]
+	(No symbol) [0x0xed2123]
+	(No symbol) [0x0xf1a86e]
+	(No symbol) [0x0xf1ac0b]
+	(No symbol) [0x0xf10081]
+	(No symbol) [0x0xf3f404]
+	(No symbol) [0x0xf0ffa4]
+	(No symbol) [0x0xf3f634]
+	(No symbol) [0x0xf607a3]
+	(No symbol) [0x0xf3f1b6]
+	(No symbol) [0x0xf0e7a2]
+	(No symbol) [0x0xf0f644]
+	GetHandleVerifier [0x0x13065c3+2637587]
+	GetHandleVerifier [0x0x13019ca+2618138]
+	GetHandleVerifier [0x0x10b84aa+220666]
+	GetHandleVerifier [0x0x10a88d8+156200]
+	GetHandleVerifier [0x0x10af06d+182717]
+	GetHandleVerifier [0x0x1099978+94920]
+	GetHandleVerifier [0x0x1099b02+95314]
+	GetHandleVerifier [0x0x1084c4a+9626]
+	(No symbol) [0x0x76b07ba9]
+	RtlInitializeExceptionChain [0x0x77b1c3ab+107]
+	RtlClearBits [0x0x77b1c32f+191]
+
+2025-07-16 15:49:11,122 - INFO - Scraped Bid ID: 8731
+2025-07-16 15:49:11,136 - INFO - Created new Excel file with headers.
+2025-07-16 15:49:11,136 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:49:14,259 - INFO - Scraped Bid ID: 8734
+2025-07-16 15:49:14,273 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:59:28,155 - INFO - ====== WebDriver manager ======
+2025-07-16 15:59:29,473 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-16 15:59:29,553 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-16 15:59:29,639 - INFO - Driver [C:\Users\harshs\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-16 15:59:34,880 - INFO - Scraping category: Open
+2025-07-16 15:59:36,997 - ERROR - Error processing row: Message: no such element: Unable to locate element: {"method":"tag name","selector":"a"}
+  (Session info: chrome=138.0.7204.101); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x1091a33+62339]
+	GetHandleVerifier [0x0x1091a74+62404]
+	(No symbol) [0x0xed2123]
+	(No symbol) [0x0xf1a86e]
+	(No symbol) [0x0xf1ac0b]
+	(No symbol) [0x0xf10081]
+	(No symbol) [0x0xf3f404]
+	(No symbol) [0x0xf0ffa4]
+	(No symbol) [0x0xf3f634]
+	(No symbol) [0x0xf607a3]
+	(No symbol) [0x0xf3f1b6]
+	(No symbol) [0x0xf0e7a2]
+	(No symbol) [0x0xf0f644]
+	GetHandleVerifier [0x0x13065c3+2637587]
+	GetHandleVerifier [0x0x13019ca+2618138]
+	GetHandleVerifier [0x0x10b84aa+220666]
+	GetHandleVerifier [0x0x10a88d8+156200]
+	GetHandleVerifier [0x0x10af06d+182717]
+	GetHandleVerifier [0x0x1099978+94920]
+	GetHandleVerifier [0x0x1099b02+95314]
+	GetHandleVerifier [0x0x1084c4a+9626]
+	(No symbol) [0x0x76b07ba9]
+	RtlInitializeExceptionChain [0x0x77b1c3ab+107]
+	RtlClearBits [0x0x77b1c32f+191]
+
+2025-07-16 15:59:40,171 - INFO - Scraped Bid ID: 8731
+2025-07-16 15:59:40,188 - INFO - Created new Excel file with headers.
+2025-07-16 15:59:40,194 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:59:43,305 - INFO - Scraped Bid ID: 8734
+2025-07-16 15:59:43,314 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:59:46,445 - INFO - Scraped Bid ID: 8733
+2025-07-16 15:59:46,462 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:59:49,583 - INFO - Scraped Bid ID: 8732
+2025-07-16 15:59:49,598 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:59:52,708 - INFO - Scraped Bid ID: 8725
+2025-07-16 15:59:52,708 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:59:55,848 - INFO - Scraped Bid ID: 8724
+2025-07-16 15:59:55,851 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:59:58,982 - INFO - Scraped Bid ID: 8735
+2025-07-16 15:59:58,987 - INFO - Saved bid to Excel immediately.
+2025-07-16 15:59:59,590 - WARNING - Scraping interrupted by user (Ctrl+C). Shutting down gracefully.
+2025-07-16 15:59:59,597 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/e90cac5e105cea5fbe7300420e3c04ff
+2025-07-16 16:00:03,653 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000291FF946890>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e90cac5e105cea5fbe7300420e3c04ff
+2025-07-16 16:00:07,735 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000291FF976E90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e90cac5e105cea5fbe7300420e3c04ff
+2025-07-16 16:00:22,795 - INFO - ====== WebDriver manager ======
+2025-07-16 16:00:23,865 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-16 16:00:23,958 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-16 16:00:24,101 - INFO - Driver [C:\Users\harshs\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-16 16:00:25,191 - INFO - Existing Excel columns: ['Category', 'Bid ID', 'Contract Number', 'Title', 'Open Date', 'Deadline', 'Agency', 'UNSPSC', 'Solicitation Ad Date', 'Deadline for Bid Responses', 'Contact Email', 'Important Message', 'Documents']
+2025-07-16 16:00:25,192 - INFO - Loaded 7 previously scraped bids.
+2025-07-16 16:03:10,141 - INFO - ====== WebDriver manager ======
+2025-07-16 16:03:11,201 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-16 16:03:11,306 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-16 16:03:11,374 - INFO - Driver [C:\Users\harshs\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-16 16:03:12,481 - INFO - Existing Excel columns: ['Category', 'Bid ID', 'Contract Number', 'Title', 'Open Date', 'Deadline', 'Agency', 'UNSPSC', 'Solicitation Ad Date', 'Deadline for Bid Responses', 'Contact Email', 'Important Message', 'Documents']
+2025-07-16 16:03:12,482 - INFO - Loaded 7 previously scraped bids.
+2025-07-16 16:03:14,937 - INFO - Scraping category: Open
+2025-07-16 16:03:17,076 - ERROR - Error processing row: Message: no such element: Unable to locate element: {"method":"tag name","selector":"a"}
+  (Session info: chrome=138.0.7204.101); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x1091a33+62339]
+	GetHandleVerifier [0x0x1091a74+62404]
+	(No symbol) [0x0xed2123]
+	(No symbol) [0x0xf1a86e]
+	(No symbol) [0x0xf1ac0b]
+	(No symbol) [0x0xf10081]
+	(No symbol) [0x0xf3f404]
+	(No symbol) [0x0xf0ffa4]
+	(No symbol) [0x0xf3f634]
+	(No symbol) [0x0xf607a3]
+	(No symbol) [0x0xf3f1b6]
+	(No symbol) [0x0xf0e7a2]
+	(No symbol) [0x0xf0f644]
+	GetHandleVerifier [0x0x13065c3+2637587]
+	GetHandleVerifier [0x0x13019ca+2618138]
+	GetHandleVerifier [0x0x10b84aa+220666]
+	GetHandleVerifier [0x0x10a88d8+156200]
+	GetHandleVerifier [0x0x10af06d+182717]
+	GetHandleVerifier [0x0x1099978+94920]
+	GetHandleVerifier [0x0x1099b02+95314]
+	GetHandleVerifier [0x0x1084c4a+9626]
+	(No symbol) [0x0x76b07ba9]
+	RtlInitializeExceptionChain [0x0x77b1c3ab+107]
+	RtlClearBits [0x0x77b1c32f+191]
+
+2025-07-16 16:03:17,089 - INFO - Skipping already scraped Bid ID: 8731
+2025-07-16 16:03:17,096 - INFO - Skipping already scraped Bid ID: 8734
+2025-07-16 16:03:17,111 - INFO - Skipping already scraped Bid ID: 8733
+2025-07-16 16:03:17,121 - INFO - Skipping already scraped Bid ID: 8732
+2025-07-16 16:03:17,135 - INFO - Skipping already scraped Bid ID: 8725
+2025-07-16 16:03:17,148 - INFO - Skipping already scraped Bid ID: 8724
+2025-07-16 16:03:17,155 - INFO - Skipping already scraped Bid ID: 8735
+2025-07-16 16:03:20,342 - INFO - Scraped Bid ID: 8738
+2025-07-16 16:03:20,358 - INFO - Saved bid to Excel immediately.
+2025-07-16 16:03:23,508 - INFO - Scraped Bid ID: 8728
+2025-07-16 16:03:23,522 - INFO - Saved bid to Excel immediately.
+2025-07-16 16:03:26,673 - INFO - Scraped Bid ID: 8722
+2025-07-16 16:03:26,678 - INFO - Saved bid to Excel immediately.
+2025-07-16 16:03:29,816 - INFO - Scraped Bid ID: 8730
+2025-07-16 16:03:29,840 - INFO - Saved bid to Excel immediately.
+2025-07-16 16:03:32,946 - INFO - Scraped Bid ID: 8727
+2025-07-16 16:03:32,965 - INFO - Saved bid to Excel immediately.
+2025-07-16 16:03:36,076 - INFO - Scraped Bid ID: 8723
+2025-07-16 16:03:36,095 - INFO - Saved bid to Excel immediately.
+2025-07-16 16:03:39,200 - INFO - Scraped Bid ID: 8726
+2025-07-16 16:03:39,219 - INFO - Saved bid to Excel immediately.
+2025-07-16 16:03:42,373 - INFO - Scraped Bid ID: 8729
+2025-07-16 16:03:42,394 - INFO - Saved bid to Excel immediately.
+2025-07-16 16:03:45,510 - INFO - Scraped Bid ID: 8720
+2025-07-16 16:03:45,514 - INFO - Saved bid to Excel immediately.
+2025-07-16 16:03:48,637 - INFO - Scraped Bid ID: 8690
+2025-07-16 16:03:48,657 - INFO - Saved bid to Excel immediately.
+2025-07-16 16:03:51,775 - INFO - Scraped Bid ID: 8719
+2025-07-16 16:03:51,793 - INFO - Saved bid to Excel immediately.
+2025-07-16 16:03:54,909 - INFO - Scraped Bid ID: 8718
+2025-07-16 16:03:54,930 - INFO - Saved bid to Excel immediately.
+2025-07-16 16:03:56,171 - WARNING - Scraping interrupted by user (Ctrl+C). Shutting down gracefully.
+2025-07-16 16:03:56,171 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/230380bc87148be381c092f68337366f
+2025-07-16 16:04:00,256 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002337A98A610>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/230380bc87148be381c092f68337366f
+2025-07-16 16:04:04,303 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002337A98ABD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/230380bc87148be381c092f68337366f
+2025-07-16 16:20:37,030 - INFO - ====== WebDriver manager ======
+2025-07-16 16:20:38,282 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-16 16:20:38,490 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-16 16:20:38,569 - INFO - Driver [C:\Users\harshs\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-16 16:20:39,674 - INFO - Existing Excel columns: ['Category', 'Bid ID', 'Contract Number', 'Title', 'Open Date', 'Deadline', 'Agency', 'UNSPSC', 'Solicitation Ad Date', 'Deadline for Bid Responses', 'Contact Email', 'Important Message', 'Documents']
+2025-07-16 16:20:39,674 - INFO - Loaded 19 previously scraped bids.
+2025-07-16 16:20:42,569 - INFO - Scraping category: Open
+2025-07-16 16:20:44,682 - ERROR - Error processing row: Message: no such element: Unable to locate element: {"method":"tag name","selector":"a"}
+  (Session info: chrome=138.0.7204.101); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x1091a33+62339]
+	GetHandleVerifier [0x0x1091a74+62404]
+	(No symbol) [0x0xed2123]
+	(No symbol) [0x0xf1a86e]
+	(No symbol) [0x0xf1ac0b]
+	(No symbol) [0x0xf10081]
+	(No symbol) [0x0xf3f404]
+	(No symbol) [0x0xf0ffa4]
+	(No symbol) [0x0xf3f634]
+	(No symbol) [0x0xf607a3]
+	(No symbol) [0x0xf3f1b6]
+	(No symbol) [0x0xf0e7a2]
+	(No symbol) [0x0xf0f644]
+	GetHandleVerifier [0x0x13065c3+2637587]
+	GetHandleVerifier [0x0x13019ca+2618138]
+	GetHandleVerifier [0x0x10b84aa+220666]
+	GetHandleVerifier [0x0x10a88d8+156200]
+	GetHandleVerifier [0x0x10af06d+182717]
+	GetHandleVerifier [0x0x1099978+94920]
+	GetHandleVerifier [0x0x1099b02+95314]
+	GetHandleVerifier [0x0x1084c4a+9626]
+	(No symbol) [0x0x76b07ba9]
+	RtlInitializeExceptionChain [0x0x77b1c3ab+107]
+	RtlClearBits [0x0x77b1c32f+191]
+
+2025-07-16 16:20:44,682 - INFO - Skipping already scraped Bid ID: 8731
+2025-07-16 16:20:44,698 - INFO - Skipping already scraped Bid ID: 8734
+2025-07-16 16:20:44,698 - INFO - Skipping already scraped Bid ID: 8733
+2025-07-16 16:20:44,713 - INFO - Skipping already scraped Bid ID: 8732
+2025-07-16 16:20:44,713 - INFO - Skipping already scraped Bid ID: 8725
+2025-07-16 16:20:44,713 - INFO - Skipping already scraped Bid ID: 8724
+2025-07-16 16:20:44,729 - INFO - Skipping already scraped Bid ID: 8735
+2025-07-16 16:20:44,737 - INFO - Skipping already scraped Bid ID: 8738
+2025-07-16 16:20:44,745 - INFO - Skipping already scraped Bid ID: 8728
+2025-07-16 16:20:44,761 - INFO - Skipping already scraped Bid ID: 8722
+2025-07-16 16:20:44,761 - INFO - Skipping already scraped Bid ID: 8730
+2025-07-16 16:20:44,777 - INFO - Skipping already scraped Bid ID: 8727
+2025-07-16 16:20:44,777 - INFO - Skipping already scraped Bid ID: 8723
+2025-07-16 16:20:44,792 - INFO - Skipping already scraped Bid ID: 8726
+2025-07-16 16:20:44,792 - INFO - Skipping already scraped Bid ID: 8729
+2025-07-16 16:20:44,808 - INFO - Skipping already scraped Bid ID: 8720
+2025-07-16 16:20:44,808 - INFO - Skipping already scraped Bid ID: 8690
+2025-07-16 16:20:44,824 - INFO - Skipping already scraped Bid ID: 8719
+2025-07-16 16:20:44,824 - INFO - Skipping already scraped Bid ID: 8718
+2025-07-16 16:22:46,402 - INFO - ====== WebDriver manager ======
+2025-07-16 16:22:47,538 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-16 16:22:47,645 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-16 16:22:47,776 - INFO - Driver [C:\Users\harshs\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-16 16:22:51,592 - INFO - Scraping category: Open
+2025-07-16 16:22:53,685 - ERROR - Error processing row: Message: no such element: Unable to locate element: {"method":"tag name","selector":"a"}
+  (Session info: chrome=138.0.7204.101); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x1091a33+62339]
+	GetHandleVerifier [0x0x1091a74+62404]
+	(No symbol) [0x0xed2123]
+	(No symbol) [0x0xf1a86e]
+	(No symbol) [0x0xf1ac0b]
+	(No symbol) [0x0xf10081]
+	(No symbol) [0x0xf3f404]
+	(No symbol) [0x0xf0ffa4]
+	(No symbol) [0x0xf3f634]
+	(No symbol) [0x0xf607a3]
+	(No symbol) [0x0xf3f1b6]
+	(No symbol) [0x0xf0e7a2]
+	(No symbol) [0x0xf0f644]
+	GetHandleVerifier [0x0x13065c3+2637587]
+	GetHandleVerifier [0x0x13019ca+2618138]
+	GetHandleVerifier [0x0x10b84aa+220666]
+	GetHandleVerifier [0x0x10a88d8+156200]
+	GetHandleVerifier [0x0x10af06d+182717]
+	GetHandleVerifier [0x0x1099978+94920]
+	GetHandleVerifier [0x0x1099b02+95314]
+	GetHandleVerifier [0x0x1084c4a+9626]
+	(No symbol) [0x0x76b07ba9]
+	RtlInitializeExceptionChain [0x0x77b1c3ab+107]
+	RtlClearBits [0x0x77b1c32f+191]
+
+2025-07-16 16:22:56,956 - INFO - Scraped Bid ID: 8731
+2025-07-16 16:22:56,971 - INFO - Created new Excel file with headers.
+2025-07-16 16:22:56,971 - INFO - Saved bid to Excel immediately.
+2025-07-16 16:23:00,121 - INFO - Scraped Bid ID: 8734
+2025-07-16 16:23:00,122 - INFO - Saved bid to Excel immediately.
+2025-07-16 16:23:03,261 - INFO - Scraped Bid ID: 8733
+2025-07-16 16:23:03,273 - INFO - Saved bid to Excel immediately.
+2025-07-16 16:23:06,406 - INFO - Scraped Bid ID: 8732
+2025-07-16 16:23:06,408 - INFO - Saved bid to Excel immediately.
+2025-07-16 16:23:06,451 - WARNING - Scraping interrupted by user (Ctrl+C). Shutting down gracefully.
+2025-07-16 16:23:10,521 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022C51615D50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2a261bf228a1676488328be6abed8ebd
+2025-07-16 16:23:14,597 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022C51614A90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2a261bf228a1676488328be6abed8ebd
+2025-07-16 16:23:18,667 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022C51617190>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2a261bf228a1676488328be6abed8ebd
+2025-07-16 16:23:22,746 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-07-16 16:23:31,427 - INFO - ====== WebDriver manager ======
+2025-07-16 16:23:32,498 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-16 16:23:32,598 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-16 16:23:32,675 - INFO - Driver [C:\Users\harshs\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-16 16:23:33,801 - INFO - Existing Excel columns: ['Category', 'Bid ID', 'Contract Number', 'Title', 'Open Date', 'Deadline', 'Agency', 'UNSPSC', 'Solicitation Ad Date', 'Deadline for Bid Responses', 'Contact Email', 'Important Message', 'Documents']
+2025-07-16 16:23:33,802 - INFO - Loaded 4 previously scraped bids.
+2025-07-16 16:23:36,334 - INFO - Scraping category: Open
+2025-07-16 16:23:38,438 - ERROR - Error processing row: Message: no such element: Unable to locate element: {"method":"tag name","selector":"a"}
+  (Session info: chrome=138.0.7204.101); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x1091a33+62339]
+	GetHandleVerifier [0x0x1091a74+62404]
+	(No symbol) [0x0xed2123]
+	(No symbol) [0x0xf1a86e]
+	(No symbol) [0x0xf1ac0b]
+	(No symbol) [0x0xf10081]
+	(No symbol) [0x0xf3f404]
+	(No symbol) [0x0xf0ffa4]
+	(No symbol) [0x0xf3f634]
+	(No symbol) [0x0xf607a3]
+	(No symbol) [0x0xf3f1b6]
+	(No symbol) [0x0xf0e7a2]
+	(No symbol) [0x0xf0f644]
+	GetHandleVerifier [0x0x13065c3+2637587]
+	GetHandleVerifier [0x0x13019ca+2618138]
+	GetHandleVerifier [0x0x10b84aa+220666]
+	GetHandleVerifier [0x0x10a88d8+156200]
+	GetHandleVerifier [0x0x10af06d+182717]
+	GetHandleVerifier [0x0x1099978+94920]
+	GetHandleVerifier [0x0x1099b02+95314]
+	GetHandleVerifier [0x0x1084c4a+9626]
+	(No symbol) [0x0x76b07ba9]
+	RtlInitializeExceptionChain [0x0x77b1c3ab+107]
+	RtlClearBits [0x0x77b1c32f+191]
+
+2025-07-16 16:23:38,438 - INFO - Skipping already scraped Bid ID: 8731
+2025-07-16 16:23:38,461 - INFO - Skipping already scraped Bid ID: 8734
+2025-07-16 16:23:38,468 - INFO - Skipping already scraped Bid ID: 8733
+2025-07-16 16:23:38,479 - INFO - Skipping already scraped Bid ID: 8732
+2025-07-16 16:23:41,604 - INFO - Scraped Bid ID: 8725
+2025-07-16 16:23:41,624 - INFO - Saved bid to Excel immediately.
+2025-07-16 16:23:44,745 - INFO - Scraped Bid ID: 8724
+2025-07-16 16:23:44,763 - INFO - Saved bid to Excel immediately.
+2025-07-16 16:23:47,882 - INFO - Scraped Bid ID: 8735
+2025-07-16 16:23:47,899 - INFO - Saved bid to Excel immediately.
+2025-07-16 16:23:51,048 - INFO - Scraped Bid ID: 8738
+2025-07-16 16:23:51,069 - INFO - Saved bid to Excel immediately.
+2025-07-16 16:23:54,201 - INFO - Scraped Bid ID: 8728
+2025-07-16 16:23:54,220 - INFO - Saved bid to Excel immediately.
+2025-07-16 16:23:57,363 - INFO - Scraped Bid ID: 8722
+2025-07-16 16:23:57,370 - INFO - Saved bid to Excel immediately.
+2025-07-16 16:24:00,511 - INFO - Scraped Bid ID: 8730
+2025-07-16 16:24:00,529 - INFO - Saved bid to Excel immediately.
+2025-07-16 16:24:03,640 - INFO - Scraped Bid ID: 8727
+2025-07-16 16:24:03,656 - INFO - Saved bid to Excel immediately.
+2025-07-16 16:24:05,068 - WARNING - Scraping interrupted by user (Ctrl+C). Shutting down gracefully.
+2025-07-16 16:24:05,070 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/0f842b689a5c74c9957cbb944e27bfaf
+2025-07-21 13:06:25,743 - INFO - ====== WebDriver manager ======
+2025-07-21 13:06:27,057 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 13:06:34,601 - INFO - ====== WebDriver manager ======
+2025-07-21 13:06:35,639 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 13:06:35,720 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 13:06:35,815 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 13:06:36,093 - INFO - WebDriver version 138.0.7204.157 selected
+2025-07-21 13:06:36,108 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.157/win32/chromedriver-win32.zip
+2025-07-21 13:06:36,108 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.157/win32/chromedriver-win32.zip
+2025-07-21 13:06:36,174 - INFO - Driver downloading response is 200
+2025-07-21 13:06:36,534 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 13:06:36,850 - INFO - Driver has been saved in cache [C:\Users\harshs\.wdm\drivers\chromedriver\win64\138.0.7204.157]
+2025-07-21 13:06:38,349 - INFO - Existing Excel columns: ['Category', 'Bid ID', 'Contract Number', 'Title', 'Open Date', 'Deadline', 'Agency', 'UNSPSC', 'Solicitation Ad Date', 'Deadline for Bid Responses', 'Contact Email', 'Important Message', 'Documents']
+2025-07-21 13:06:38,350 - INFO - Loaded 12 previously scraped bids.
+2025-07-21 13:06:41,488 - INFO - Scraping category: Open
+2025-07-21 13:06:43,590 - ERROR - Error processing row: Message: no such element: Unable to locate element: {"method":"tag name","selector":"a"}
+  (Session info: chrome=138.0.7204.158); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0xa71a33+62339]
+	GetHandleVerifier [0x0xa71a74+62404]
+	(No symbol) [0x0x8b2123]
+	(No symbol) [0x0x8fa86e]
+	(No symbol) [0x0x8fac0b]
+	(No symbol) [0x0x8f0081]
+	(No symbol) [0x0x91f404]
+	(No symbol) [0x0x8effa4]
+	(No symbol) [0x0x91f634]
+	(No symbol) [0x0x9407a3]
+	(No symbol) [0x0x91f1b6]
+	(No symbol) [0x0x8ee7a2]
+	(No symbol) [0x0x8ef644]
+	GetHandleVerifier [0x0xce65c3+2637587]
+	GetHandleVerifier [0x0xce19ca+2618138]
+	GetHandleVerifier [0x0xa984aa+220666]
+	GetHandleVerifier [0x0xa888d8+156200]
+	GetHandleVerifier [0x0xa8f06d+182717]
+	GetHandleVerifier [0x0xa79978+94920]
+	GetHandleVerifier [0x0xa79b02+95314]
+	GetHandleVerifier [0x0xa64c4a+9626]
+	(No symbol) [0x0x75527ba9]
+	RtlInitializeExceptionChain [0x0x7786c3ab+107]
+	RtlClearBits [0x0x7786c32f+191]
+
+2025-07-21 13:06:46,768 - INFO - Scraped Bid ID: 8739
+2025-07-21 13:06:46,781 - INFO - Saved bid to Excel immediately.
+2025-07-21 13:06:49,904 - INFO - Scraped Bid ID: 8742
+2025-07-21 13:06:49,923 - INFO - Saved bid to Excel immediately.
+2025-07-21 13:06:53,038 - INFO - Scraped Bid ID: 8743
+2025-07-21 13:06:53,053 - INFO - Saved bid to Excel immediately.
+2025-07-21 13:06:56,207 - INFO - Scraped Bid ID: 8736
+2025-07-21 13:06:56,226 - INFO - Saved bid to Excel immediately.
+2025-07-21 13:06:58,375 - WARNING - Scraping interrupted by user (Ctrl+C). Shutting down gracefully.
+2025-07-21 13:06:58,378 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/e2706c78f4b022522c6147d8329e0d25
+2025-07-21 13:07:02,428 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002068262E450>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e2706c78f4b022522c6147d8329e0d25
+2025-07-21 13:07:06,486 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002068262C990>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e2706c78f4b022522c6147d8329e0d25
+2025-07-21 14:28:28,090 - INFO - ====== WebDriver manager ======
+2025-07-21 14:28:29,187 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 14:28:29,287 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 14:28:29,371 - INFO - Driver [C:\Users\harshs\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 14:28:33,693 - INFO - Scraping category: Open
+2025-07-21 14:28:35,811 - ERROR - Error processing a row: Message: no such element: Unable to locate element: {"method":"tag name","selector":"a"}
+  (Session info: chrome=138.0.7204.158); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0xb31a33+62339]
+	GetHandleVerifier [0x0xb31a74+62404]
+	(No symbol) [0x0x972123]
+	(No symbol) [0x0x9ba86e]
+	(No symbol) [0x0x9bac0b]
+	(No symbol) [0x0x9b0081]
+	(No symbol) [0x0x9df404]
+	(No symbol) [0x0x9affa4]
+	(No symbol) [0x0x9df634]
+	(No symbol) [0x0xa007a3]
+	(No symbol) [0x0x9df1b6]
+	(No symbol) [0x0x9ae7a2]
+	(No symbol) [0x0x9af644]
+	GetHandleVerifier [0x0xda65c3+2637587]
+	GetHandleVerifier [0x0xda19ca+2618138]
+	GetHandleVerifier [0x0xb584aa+220666]
+	GetHandleVerifier [0x0xb488d8+156200]
+	GetHandleVerifier [0x0xb4f06d+182717]
+	GetHandleVerifier [0x0xb39978+94920]
+	GetHandleVerifier [0x0xb39b02+95314]
+	GetHandleVerifier [0x0xb24c4a+9626]
+	(No symbol) [0x0x75527ba9]
+	RtlInitializeExceptionChain [0x0x7786c3ab+107]
+	RtlClearBits [0x0x7786c32f+191]
+
+2025-07-21 14:28:38,973 - INFO - Scraped Bid ID: 8739
+2025-07-21 14:28:42,087 - INFO - Scraped Bid ID: 8742
+2025-07-21 14:28:45,198 - INFO - Scraped Bid ID: 8743
+2025-07-21 14:28:48,337 - INFO - Scraped Bid ID: 8736
+2025-07-21 14:28:51,476 - INFO - Scraped Bid ID: 8737
+2025-07-21 14:28:54,636 - INFO - Scraped Bid ID: 8731
+2025-07-21 14:28:57,756 - INFO - Scraped Bid ID: 8734
+2025-07-21 14:29:20,613 - INFO - ====== WebDriver manager ======
+2025-07-21 14:29:21,722 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 14:29:21,844 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 14:29:21,928 - INFO - Driver [C:\Users\harshs\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 14:29:25,392 - INFO - Scraping category: Open
+2025-07-21 14:29:27,513 - ERROR - Error processing a row: Message: no such element: Unable to locate element: {"method":"tag name","selector":"a"}
+  (Session info: chrome=138.0.7204.158); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0xb31a33+62339]
+	GetHandleVerifier [0x0xb31a74+62404]
+	(No symbol) [0x0x972123]
+	(No symbol) [0x0x9ba86e]
+	(No symbol) [0x0x9bac0b]
+	(No symbol) [0x0x9b0081]
+	(No symbol) [0x0x9df404]
+	(No symbol) [0x0x9affa4]
+	(No symbol) [0x0x9df634]
+	(No symbol) [0x0xa007a3]
+	(No symbol) [0x0x9df1b6]
+	(No symbol) [0x0x9ae7a2]
+	(No symbol) [0x0x9af644]
+	GetHandleVerifier [0x0xda65c3+2637587]
+	GetHandleVerifier [0x0xda19ca+2618138]
+	GetHandleVerifier [0x0xb584aa+220666]
+	GetHandleVerifier [0x0xb488d8+156200]
+	GetHandleVerifier [0x0xb4f06d+182717]
+	GetHandleVerifier [0x0xb39978+94920]
+	GetHandleVerifier [0x0xb39b02+95314]
+	GetHandleVerifier [0x0xb24c4a+9626]
+	(No symbol) [0x0x75527ba9]
+	RtlInitializeExceptionChain [0x0x7786c3ab+107]
+	RtlClearBits [0x0x7786c32f+191]
+
+2025-07-21 14:29:30,707 - INFO - Scraped Bid ID: 8739
+2025-07-21 14:29:33,817 - INFO - Scraped Bid ID: 8742
+2025-07-21 14:29:36,927 - INFO - Scraped Bid ID: 8743
+2025-07-21 14:29:40,073 - INFO - Scraped Bid ID: 8736
+2025-07-21 14:30:39,685 - INFO - ====== WebDriver manager ======
+2025-07-21 14:30:40,794 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 14:30:40,870 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 14:30:40,967 - INFO - Driver [C:\Users\harshs\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 14:30:44,465 - INFO - Scraping category: Open
+2025-07-21 14:30:46,581 - ERROR - Error processing row: Message: no such element: Unable to locate element: {"method":"tag name","selector":"a"}
+  (Session info: chrome=138.0.7204.158); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0xb31a33+62339]
+	GetHandleVerifier [0x0xb31a74+62404]
+	(No symbol) [0x0x972123]
+	(No symbol) [0x0x9ba86e]
+	(No symbol) [0x0x9bac0b]
+	(No symbol) [0x0x9b0081]
+	(No symbol) [0x0x9df404]
+	(No symbol) [0x0x9affa4]
+	(No symbol) [0x0x9df634]
+	(No symbol) [0x0xa007a3]
+	(No symbol) [0x0x9df1b6]
+	(No symbol) [0x0x9ae7a2]
+	(No symbol) [0x0x9af644]
+	GetHandleVerifier [0x0xda65c3+2637587]
+	GetHandleVerifier [0x0xda19ca+2618138]
+	GetHandleVerifier [0x0xb584aa+220666]
+	GetHandleVerifier [0x0xb488d8+156200]
+	GetHandleVerifier [0x0xb4f06d+182717]
+	GetHandleVerifier [0x0xb39978+94920]
+	GetHandleVerifier [0x0xb39b02+95314]
+	GetHandleVerifier [0x0xb24c4a+9626]
+	(No symbol) [0x0x75527ba9]
+	RtlInitializeExceptionChain [0x0x7786c3ab+107]
+	RtlClearBits [0x0x7786c32f+191]
+
+2025-07-21 14:30:49,763 - INFO - Scraped Bid ID: 8739
+2025-07-21 14:30:49,776 - INFO - Created new Excel file with headers.
+2025-07-21 14:30:49,776 - INFO - Saved bid to Excel immediately.
+2025-07-21 14:30:52,887 - INFO - Scraped Bid ID: 8742
+2025-07-21 14:30:52,905 - INFO - Saved bid to Excel immediately.
+2025-07-21 14:30:56,550 - INFO - ====== WebDriver manager ======
+2025-07-21 14:30:57,696 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 14:30:57,797 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 14:30:57,898 - INFO - Driver [C:\Users\harshs\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 14:30:59,025 - INFO - Existing Excel columns: ['Category', 'Bid ID', 'Contract Number', 'Title', 'Open Date', 'Deadline', 'Agency', 'UNSPSC', 'Solicitation Ad Date', 'Deadline for Bid Responses', 'Contact Email', 'Important Message', 'Documents']
+2025-07-21 14:30:59,025 - INFO - Loaded 2 previously scraped bids.
+2025-07-21 14:31:01,330 - INFO - Scraping category: Open
+2025-07-21 14:31:03,460 - ERROR - Error processing row: Message: no such element: Unable to locate element: {"method":"tag name","selector":"a"}
+  (Session info: chrome=138.0.7204.158); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0xb31a33+62339]
+	GetHandleVerifier [0x0xb31a74+62404]
+	(No symbol) [0x0x972123]
+	(No symbol) [0x0x9ba86e]
+	(No symbol) [0x0x9bac0b]
+	(No symbol) [0x0x9b0081]
+	(No symbol) [0x0x9df404]
+	(No symbol) [0x0x9affa4]
+	(No symbol) [0x0x9df634]
+	(No symbol) [0x0xa007a3]
+	(No symbol) [0x0x9df1b6]
+	(No symbol) [0x0x9ae7a2]
+	(No symbol) [0x0x9af644]
+	GetHandleVerifier [0x0xda65c3+2637587]
+	GetHandleVerifier [0x0xda19ca+2618138]
+	GetHandleVerifier [0x0xb584aa+220666]
+	GetHandleVerifier [0x0xb488d8+156200]
+	GetHandleVerifier [0x0xb4f06d+182717]
+	GetHandleVerifier [0x0xb39978+94920]
+	GetHandleVerifier [0x0xb39b02+95314]
+	GetHandleVerifier [0x0xb24c4a+9626]
+	(No symbol) [0x0x75527ba9]
+	RtlInitializeExceptionChain [0x0x7786c3ab+107]
+	RtlClearBits [0x0x7786c32f+191]
+
+2025-07-21 14:31:03,476 - INFO - Skipping already scraped Bid ID: 8739
+2025-07-21 14:31:03,492 - INFO - Skipping already scraped Bid ID: 8742
+2025-07-21 14:31:06,669 - INFO - Scraped Bid ID: 8743
+2025-07-21 14:31:06,688 - INFO - Saved bid to Excel immediately.
+2025-07-21 14:31:09,835 - INFO - Scraped Bid ID: 8736
+2025-07-21 14:31:09,838 - INFO - Saved bid to Excel immediately.
+2025-07-21 14:31:12,999 - INFO - Scraped Bid ID: 8737
+2025-07-21 14:31:12,999 - INFO - Saved bid to Excel immediately.
+2025-07-21 14:31:14,591 - WARNING - Scraping interrupted by user (Ctrl+C). Shutting down gracefully.
+2025-07-21 14:31:14,594 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/466beabff19f68b49170dd87ab511d7f
+2025-07-21 14:31:18,659 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F26B7ED850>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/466beabff19f68b49170dd87ab511d7f
+2025-07-21 14:31:22,740 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F26B7EEC10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/466beabff19f68b49170dd87ab511d7f
+2025-07-21 15:11:19,716 - INFO - ====== WebDriver manager ======
+2025-07-21 15:11:20,800 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 15:11:20,942 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 15:11:21,083 - INFO - Driver [C:\Users\harshs\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 15:11:22,238 - INFO - Existing Excel columns: ['Category', 'Bid ID', 'Contract Number', 'Title', 'Open Date', 'Deadline', 'Agency', 'UNSPSC', 'Solicitation Ad Date', 'Deadline for Bid Responses', 'Contact Email', 'Important Message', 'Documents']
+2025-07-21 15:11:22,239 - INFO - Loaded 5 previously scraped bids.
+2025-07-21 15:11:25,317 - INFO - Scraping category: Open
+2025-07-21 15:11:27,424 - ERROR - Error processing row: Message: no such element: Unable to locate element: {"method":"tag name","selector":"a"}
+  (Session info: chrome=138.0.7204.158); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0xb31a33+62339]
+	GetHandleVerifier [0x0xb31a74+62404]
+	(No symbol) [0x0x972123]
+	(No symbol) [0x0x9ba86e]
+	(No symbol) [0x0x9bac0b]
+	(No symbol) [0x0x9b0081]
+	(No symbol) [0x0x9df404]
+	(No symbol) [0x0x9affa4]
+	(No symbol) [0x0x9df634]
+	(No symbol) [0x0xa007a3]
+	(No symbol) [0x0x9df1b6]
+	(No symbol) [0x0x9ae7a2]
+	(No symbol) [0x0x9af644]
+	GetHandleVerifier [0x0xda65c3+2637587]
+	GetHandleVerifier [0x0xda19ca+2618138]
+	GetHandleVerifier [0x0xb584aa+220666]
+	GetHandleVerifier [0x0xb488d8+156200]
+	GetHandleVerifier [0x0xb4f06d+182717]
+	GetHandleVerifier [0x0xb39978+94920]
+	GetHandleVerifier [0x0xb39b02+95314]
+	GetHandleVerifier [0x0xb24c4a+9626]
+	(No symbol) [0x0x75527ba9]
+	RtlInitializeExceptionChain [0x0x7786c3ab+107]
+	RtlClearBits [0x0x7786c32f+191]
+
+2025-07-21 15:11:27,424 - INFO - Skipping already scraped Bid ID: 8739
+2025-07-21 15:11:27,442 - INFO - Skipping already scraped Bid ID: 8742
+2025-07-21 15:11:27,455 - INFO - Skipping already scraped Bid ID: 8743
+2025-07-21 15:11:27,469 - INFO - Skipping already scraped Bid ID: 8736
+2025-07-21 15:11:27,478 - INFO - Skipping already scraped Bid ID: 8737
+2025-07-21 15:11:30,645 - INFO - Scraped Bid ID: 8731
+2025-07-21 15:11:30,667 - INFO - Saved bid to Excel immediately.
+2025-07-21 15:11:33,801 - INFO - Scraped Bid ID: 8734
+2025-07-21 15:11:33,815 - INFO - Saved bid to Excel immediately.
+2025-07-21 15:11:36,946 - INFO - Scraped Bid ID: 8733
+2025-07-21 15:11:36,962 - INFO - Saved bid to Excel immediately.
+2025-07-21 15:11:40,125 - INFO - Scraped Bid ID: 8744
+2025-07-21 15:11:40,144 - INFO - Saved bid to Excel immediately.
+2025-07-21 15:11:43,273 - INFO - Scraped Bid ID: 8732
+2025-07-21 15:11:43,279 - INFO - Saved bid to Excel immediately.
+2025-07-21 15:11:46,390 - INFO - Scraped Bid ID: 8725
+2025-07-21 15:11:46,400 - INFO - Saved bid to Excel immediately.
+2025-07-21 15:11:49,516 - INFO - Scraped Bid ID: 8724
+2025-07-21 15:11:49,522 - INFO - Saved bid to Excel immediately.
+2025-07-21 15:11:52,643 - INFO - Scraped Bid ID: 8735
+2025-07-21 15:11:52,663 - INFO - Saved bid to Excel immediately.
+2025-07-21 15:11:55,828 - INFO - Scraped Bid ID: 8738
+2025-07-21 15:11:55,850 - INFO - Saved bid to Excel immediately.
+2025-07-21 15:11:58,991 - INFO - Scraped Bid ID: 8728
+2025-07-21 15:11:59,019 - INFO - Saved bid to Excel immediately.
+2025-07-21 15:12:02,160 - INFO - Scraped Bid ID: 8722
+2025-07-21 15:12:02,181 - INFO - Saved bid to Excel immediately.
+2025-07-21 15:12:05,316 - INFO - Scraped Bid ID: 8730
+2025-07-21 15:12:05,340 - INFO - Saved bid to Excel immediately.
+2025-07-21 15:12:08,453 - INFO - Scraped Bid ID: 8727
+2025-07-21 15:12:08,482 - INFO - Saved bid to Excel immediately.
+2025-07-21 15:12:11,594 - INFO - Scraped Bid ID: 8726
+2025-07-21 15:12:11,618 - INFO - Saved bid to Excel immediately.
+2025-07-21 15:12:14,730 - INFO - Scraped Bid ID: 8723
+2025-07-21 15:12:14,759 - INFO - Saved bid to Excel immediately.
+2025-07-21 15:12:16,814 - ERROR - Error processing row: Message: no such element: Unable to locate element: {"method":"tag name","selector":"a"}
+  (Session info: chrome=138.0.7204.158); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0xb31a33+62339]
+	GetHandleVerifier [0x0xb31a74+62404]
+	(No symbol) [0x0x972123]
+	(No symbol) [0x0x9ba86e]
+	(No symbol) [0x0x9bac0b]
+	(No symbol) [0x0x9b0081]
+	(No symbol) [0x0x9df404]
+	(No symbol) [0x0x9affa4]
+	(No symbol) [0x0x9df634]
+	(No symbol) [0x0xa007a3]
+	(No symbol) [0x0x9df1b6]
+	(No symbol) [0x0x9ae7a2]
+	(No symbol) [0x0x9af644]
+	GetHandleVerifier [0x0xda65c3+2637587]
+	GetHandleVerifier [0x0xda19ca+2618138]
+	GetHandleVerifier [0x0xb584aa+220666]
+	GetHandleVerifier [0x0xb488d8+156200]
+	GetHandleVerifier [0x0xb4f06d+182717]
+	GetHandleVerifier [0x0xb39978+94920]
+	GetHandleVerifier [0x0xb39b02+95314]
+	GetHandleVerifier [0x0xb24c4a+9626]
+	(No symbol) [0x0x75527ba9]
+	RtlInitializeExceptionChain [0x0x7786c3ab+107]
+	RtlClearBits [0x0x7786c32f+191]
+
+2025-07-21 15:12:19,955 - INFO - Scraped Bid ID: 8729
+2025-07-21 15:12:19,978 - INFO - Saved bid to Excel immediately.
+2025-07-21 15:12:23,106 - INFO - Scraped Bid ID: 8720
+2025-07-21 15:12:23,120 - INFO - Saved bid to Excel immediately.
+2025-07-21 15:12:26,247 - INFO - Scraped Bid ID: 8690
+2025-07-21 15:12:26,269 - INFO - Saved bid to Excel immediately.
+2025-07-21 15:12:29,391 - INFO - Scraped Bid ID: 8719
+2025-07-21 15:12:29,409 - INFO - Saved bid to Excel immediately.
+2025-07-21 15:12:32,506 - INFO - Scraped Bid ID: 8718
+2025-07-21 15:12:32,527 - INFO - Saved bid to Excel immediately.
+2025-07-21 15:12:35,668 - INFO - Scraped Bid ID: 8716
+2025-07-21 15:12:35,692 - INFO - Saved bid to Excel immediately.
+2025-07-21 15:12:38,796 - INFO - Scraped Bid ID: 8709
+2025-07-21 15:12:38,813 - INFO - Saved bid to Excel immediately.
+2025-07-21 15:12:41,969 - INFO - Scraped Bid ID: 8714
+2025-07-21 15:12:41,996 - INFO - Saved bid to Excel immediately.
+2025-07-21 15:12:45,134 - INFO - Scraped Bid ID: 8707
+2025-07-21 15:12:45,145 - INFO - Saved bid to Excel immediately.
+2025-07-21 15:12:48,283 - INFO - Scraped Bid ID: 8708
+2025-07-21 15:12:48,321 - INFO - Saved bid to Excel immediately.
+2025-07-21 15:12:51,472 - INFO - Scraped Bid ID: 8710
+2025-07-21 15:12:51,500 - INFO - Saved bid to Excel immediately.
+2025-07-21 15:12:54,662 - INFO - Scraped Bid ID: 8702
+2025-07-21 15:12:54,681 - INFO - Saved bid to Excel immediately.
+2025-07-21 15:12:57,892 - INFO - Scraped Bid ID: 8711
+2025-07-21 15:12:57,907 - INFO - Saved bid to Excel immediately.
+2025-07-21 15:13:01,084 - INFO - Scraped Bid ID: 8712
+2025-07-21 15:13:01,107 - INFO - Saved bid to Excel immediately.
+2025-07-21 15:13:04,279 - INFO - Scraped Bid ID: 8705
+2025-07-21 15:13:04,307 - INFO - Saved bid to Excel immediately.
+2025-07-21 15:13:07,444 - INFO - Scraped Bid ID: 8706
+2025-07-21 15:13:07,474 - INFO - Saved bid to Excel immediately.
+2025-07-21 15:13:10,594 - INFO - Scraped Bid ID: 8700
+2025-07-21 15:13:10,626 - INFO - Saved bid to Excel immediately.
+2025-07-21 15:13:13,794 - INFO - Scraped Bid ID: 8704
+2025-07-21 15:13:13,835 - INFO - Saved bid to Excel immediately.
+2025-07-21 15:13:17,003 - INFO - Scraped Bid ID: 8699
+2025-07-21 15:13:17,054 - INFO - Saved bid to Excel immediately.
+2025-07-21 15:13:20,249 - INFO - Scraped Bid ID: 8703
+2025-07-21 15:13:20,298 - INFO - Saved bid to Excel immediately.
+2025-07-21 15:13:22,356 - ERROR - Error processing row: Message: no such element: Unable to locate element: {"method":"tag name","selector":"a"}
+  (Session info: chrome=138.0.7204.158); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0xb31a33+62339]
+	GetHandleVerifier [0x0xb31a74+62404]
+	(No symbol) [0x0x972123]
+	(No symbol) [0x0x9ba86e]
+	(No symbol) [0x0x9bac0b]
+	(No symbol) [0x0x9b0081]
+	(No symbol) [0x0x9df404]
+	(No symbol) [0x0x9affa4]
+	(No symbol) [0x0x9df634]
+	(No symbol) [0x0xa007a3]
+	(No symbol) [0x0x9df1b6]
+	(No symbol) [0x0x9ae7a2]
+	(No symbol) [0x0x9af644]
+	GetHandleVerifier [0x0xda65c3+2637587]
+	GetHandleVerifier [0x0xda19ca+2618138]
+	GetHandleVerifier [0x0xb584aa+220666]
+	GetHandleVerifier [0x0xb488d8+156200]
+	GetHandleVerifier [0x0xb4f06d+182717]
+	GetHandleVerifier [0x0xb39978+94920]
+	GetHandleVerifier [0x0xb39b02+95314]
+	GetHandleVerifier [0x0xb24c4a+9626]
+	(No symbol) [0x0x75527ba9]
+	RtlInitializeExceptionChain [0x0x7786c3ab+107]
+	RtlClearBits [0x0x7786c32f+191]
+
+2025-07-21 15:13:25,504 - INFO - Scraped Bid ID: 8695
+2025-07-21 15:13:25,546 - INFO - Saved bid to Excel immediately.
+2025-07-21 15:13:28,694 - INFO - Scraped Bid ID: 8692
+2025-07-21 15:13:28,726 - INFO - Saved bid to Excel immediately.
+2025-07-21 15:13:31,936 - INFO - Scraped Bid ID: 8687
+2025-07-21 15:13:31,971 - INFO - Saved bid to Excel immediately.
+2025-07-21 15:13:35,146 - INFO - Scraped Bid ID: 8681
+2025-07-21 15:13:35,189 - INFO - Saved bid to Excel immediately.
+2025-07-21 15:13:38,333 - INFO - Scraped Bid ID: 8680
+2025-07-21 15:13:38,374 - INFO - Saved bid to Excel immediately.
+2025-07-21 15:13:41,532 - INFO - Scraped Bid ID: 8677
+2025-07-21 15:13:41,573 - INFO - Saved bid to Excel immediately.
+2025-07-21 15:13:44,754 - INFO - Scraped Bid ID: 8676
+2025-07-21 15:13:44,863 - INFO - Saved bid to Excel immediately.
+2025-07-21 15:13:48,072 - INFO - Scraped Bid ID: 8670
+2025-07-21 15:13:48,108 - INFO - Saved bid to Excel immediately.
+2025-07-21 15:13:51,258 - INFO - Scraped Bid ID: 8672
+2025-07-21 15:13:51,308 - INFO - Saved bid to Excel immediately.
+2025-07-21 15:13:54,499 - INFO - Scraped Bid ID: 8647
+2025-07-21 15:13:54,529 - INFO - Saved bid to Excel immediately.
+2025-07-21 15:13:57,682 - INFO - Scraped Bid ID: 8639
+2025-07-21 15:13:57,726 - INFO - Saved bid to Excel immediately.
+2025-07-21 15:14:00,881 - INFO - Scraped Bid ID: 8635
+2025-07-21 15:14:00,923 - INFO - Saved bid to Excel immediately.
+2025-07-21 15:14:03,045 - INFO - Scraping complete.
