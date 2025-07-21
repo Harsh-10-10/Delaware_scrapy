@@ -1,1 +1,1 @@
-# This poject is all about Scrapping which extract comprehensive data from all bid categories and their individual details pages. 
+This project focuses on web scraping to extract comprehensive data from all bid categories available on the target website. The scraped data is neatly organized, placing individual details into structured columns for efficient analysis and usage.
