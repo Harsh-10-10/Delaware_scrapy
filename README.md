@@ -1,15 +1,47 @@
-# Objective
+# 🕸️ Bid Data Scraper
 
-The main aim is to extract data from the Website which includes the following details.
+## 📌 Objective
 
-From Main Table (for each bid in Open, Recently Closed, Awarded):
+The primary goal of this project is to extract structured bid-related data from a target website. The data is collected from both the **main bid listing table** and the **individual bid detail pages**.
 
-o Contract Number
-o Contract Title
-o Open Date
-o Deadline Date
-o Agency Code
-o UNSPSC
-o Current Bid Status (Open, Recently Closed, Awarded)
+---
 
-This project focuses on web scraping to extract comprehensive data from all bid categories available on the target website. The scraped data is neatly organized, placing individual details into structured columns for efficient analysis and usage.
+## 📄 Data Extraction Details
+### 🔹 From Main Table (for each bid in **Open**, **Recently Closed**, and **Awarded** sections):
+
+- `Contract Number`
+- `Contract Title`
+- `Open Date`
+- `Deadline Date`
+- `Agency Code`
+- `UNSPSC`
+- `Current Bid Status` (Open, Recently Closed, Awarded)
+
+### 🔹 From Bid Detail Page (for each bid):
+
+- `Full Bid Title/Header`
+- `Solicitation Ad Date`
+- `Deadline for Bid Responses`
+- `Contact Name` (if available)
+- `Contact Email` (if available)
+- `List of all Supporting Bid Document URLs`
+- `Any other text information present on the detail page`
+
+---
+
+## 🛠️ Tools & Libraries Used
+
+- `Selenium` – for browser automation and dynamic content scraping  
+- `Openpyxl` – for writing extracted data to Excel files  
+- `os` – for file and directory operations  
+- `logging` – for tracking script execution and errors  
+- `WebDriver` – for controlling browser sessions  
+- `time` – for managing delays and wait times  
+- `pandas` – for data manipulation and structuring
+
+---
+
+## 📂 Main Script
+
+The main logic for scraping and data extraction is implemented in:
+
