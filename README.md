@@ -1,4 +1,4 @@
-# 🕸️ Bid Data Scraper
+# 🕸️ Bid Data Scraping
 
 ## 📌 Objective
 
@@ -43,5 +43,5 @@ The primary goal of this project is to extract structured bid-related data from 
 
 ## 📂 Main Script
 
-The main logic for scraping and data extraction is implemented in:
+You just need to run the Main.py file
 
